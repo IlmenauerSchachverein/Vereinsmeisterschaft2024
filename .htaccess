@@ -10,4 +10,4 @@ RewriteRule !.*\.html$ %{REQUEST_FILENAME}.html [QSA,L]
 RewriteCond %{REQUEST_FILENAME}.htm -f
 RewriteRule !.*\.htm$ %{REQUEST_FILENAME}.htm [QSA,L]
 
-ErrorDocument 404 http://open.ilmenauersv.xyz
+ErrorDocument 404 /

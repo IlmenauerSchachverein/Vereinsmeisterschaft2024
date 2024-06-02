@@ -1,3 +1,7 @@
+# Chess
+*.ini 
+*.pgi
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
@@ -138,3 +142,8 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+
+# PGN Dateien
+*.pgi
+*.ini
