@@ -1,5 +1,5 @@
 ---
-title: Runden
+title: Paarungen
 type: docs
 prev: docs/first-page
 next: docs/folder/leaf

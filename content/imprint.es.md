@@ -1,309 +1,309 @@
-# Datenschutzerklärung
+# Política de Privacidad
 
-## Verantwortlicher Seitenbetreiber
+## Operador Responsable del Sitio
 
-**Ilmenauer Schachverein e.V.**  
-Vorsitzender: Markus Hartung  
+**Club de Ajedrez Ilmenauer e.V.**  
+Presidente: Markus Hartung  
 
 Goetheallee 1a  
 
 98693 Ilmenau  
 
-Eingetragen beim Amtsgericht Gotha Vereinsregisternummer: 191  
+Registrado en el Tribunal de Distrito de Gotha bajo el número de registro: 191  
 
-Internet-Adresse: [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de)  
-E-Mail: info@ilmenauer-schachverein.de  
-
----
-
-## Datenschutzerklärung
-
-Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der Ilmenauer Schachverein e.V. Eine Nutzung der Internetseiten der Ilmenauer Schachverein e.V. ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.
-
-Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den für die Ilmenauer Schachverein e.V. geltenden landesspezifischen Datenschutzbestimmungen. Mittels dieser Datenschutzerklärung möchte unser Unternehmen die Öffentlichkeit über Art, Umfang und Zweck der von uns erhobenen, genutzten und verarbeiteten personenbezogenen Daten informieren. Ferner werden betroffene Personen mittels dieser Datenschutzerklärung über die ihnen zustehenden Rechte aufgeklärt.
-
-Die Ilmenauer Schachverein e.V. hat als für die Verarbeitung Verantwortlicher zahlreiche technische und organisatorische Maßnahmen umgesetzt, um einen möglichst lückenlosen Schutz der über diese Internetseite verarbeiteten personenbezogenen Daten sicherzustellen. Dennoch können internetbasierte Datenübertragungen grundsätzlich Sicherheitslücken aufweisen, sodass ein absoluter Schutz nicht gewährleistet werden kann. Aus diesem Grund steht es jeder betroffenen Person frei, personenbezogene Daten auch auf alternativen Wegen, beispielsweise telefonisch, an uns zu übermitteln.
+Sitio web: [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de)  
+Correo electrónico: info@ilmenauer-schachverein.de  
 
 ---
 
-## 1. Begriffsbestimmungen
+## Política de Privacidad
 
-Die Datenschutzerklärung der Ilmenauer Schachverein e.V. beruht auf den Begrifflichkeiten, die durch den Europäischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerklärung soll sowohl für die Öffentlichkeit als auch für unsere Kunden und Geschäftspartner einfach lesbar und verständlich sein. Um dies zu gewährleisten, möchten wir vorab die verwendeten Begrifflichkeiten erläutern.
+Nos complace mucho su interés en nuestra empresa. La protección de datos tiene una prioridad especialmente alta para la gestión del Club de Ajedrez Ilmenauer e.V. El uso de las páginas de Internet del Club de Ajedrez Ilmenauer e.V. es posible sin ninguna indicación de datos personales. Sin embargo, si una persona desea utilizar servicios especiales a través de nuestro sitio web, podría ser necesario el procesamiento de datos personales. Si el procesamiento de datos personales es necesario y no hay base legal para dicho procesamiento, generalmente obtenemos el consentimiento de la persona interesada.
 
-Wir verwenden in dieser Datenschutzerklärung unter anderem die folgenden Begriffe:
+El procesamiento de datos personales, como el nombre, la dirección, la dirección de correo electrónico o el número de teléfono de una persona interesada, siempre se realizará de acuerdo con el Reglamento General de Protección de Datos (RGPD) y de conformidad con las normativas específicas de protección de datos aplicables al Club de Ajedrez Ilmenauer e.V. Con esta declaración de protección de datos, nuestra empresa desea informar al público en general sobre la naturaleza, el alcance y el propósito de los datos personales que recopilamos, utilizamos y procesamos. Además, mediante esta declaración de protección de datos, las personas interesadas son informadas sobre los derechos que les corresponden.
 
-### a) Personenbezogene Daten
-
-Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen. Als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann.
-
-### b) Betroffene Person
-
-Betroffene Person ist jede identifizierte oder identifizierbare natürliche Person, deren personenbezogene Daten von dem für die Verarbeitung Verantwortlichen verarbeitet werden.
-
-### c) Verarbeitung
-
-Verarbeitung ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung.
-
-### d) Einschränkung der Verarbeitung
-
-Einschränkung der Verarbeitung ist die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung einzuschränken.
-
-### e) Profiling
-
-Profiling ist jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere, um Aspekte bezüglich Arbeitsleistung, wirtschaftlicher Lage, Gesundheit, persönlicher Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen.
-
-### f) Pseudonymisierung
-
-Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, auf welche die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.
-
-### g) Verantwortlicher oder für die Verarbeitung Verantwortlicher
-
-Verantwortlicher oder für die Verarbeitung Verantwortlicher ist die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet. Sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so kann der Verantwortliche beziehungsweise können die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden.
-
-### h) Auftragsverarbeiter
-
-Auftragsverarbeiter ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.
-
-### i) Empfänger
-
-Empfänger ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder dem Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger.
-
-### j) Dritter
-
-Dritter ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle außer der betroffenen Person, dem Verantwortlichen, dem Auftragsverarbeiter und den Personen, die unter der unmittelbaren Verantwortung des Verantwortlichen oder des Auftragsverarbeiters befugt sind, die personenbezogenen Daten zu verarbeiten.
-
-### k) Einwilligung
-
-Einwilligung ist jede von der betroffenen Person freiwillig für den bestimmten Fall in informierter Weise und unmissverständlich abgegebene Willensbekundung in Form einer Erklärung oder einer sonstigen eindeutigen bestätigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist.
+Como controlador, el Club de Ajedrez Ilmenauer e.V. ha implementado numerosas medidas técnicas y organizativas para garantizar la protección más completa posible de los datos personales procesados a través de este sitio web. Sin embargo, las transmisiones de datos basadas en Internet pueden tener fallos de seguridad, por lo que no se puede garantizar una protección absoluta. Por esta razón, cada persona interesada es libre de transferir datos personales a nosotros a través de medios alternativos, por ejemplo, por teléfono.
 
 ---
 
-## 2. Name und Anschrift des für die Verarbeitung Verantwortlichen
+## 1. Definiciones
 
-Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:
+La declaración de protección de datos del Club de Ajedrez Ilmenauer e.V. se basa en los términos utilizados por el legislador europeo para la adopción del Reglamento General de Protección de Datos (RGPD). Nuestra declaración de protección de datos debe ser legible y comprensible para el público en general, así como para nuestros clientes y socios comerciales. Para garantizar esto, nos gustaría explicar primero la terminología utilizada.
 
-Ilmenauer Schachverein e.V.  
+En esta declaración de protección de datos, utilizamos los siguientes términos:
+
+### a) Datos Personales
+
+Datos personales significa cualquier información relacionada con una persona física identificada o identificable (“persona interesada”). Se considera identificable una persona física que puede ser identificada, directa o indirectamente, en particular mediante referencia a un identificador como un nombre, un número de identificación, datos de ubicación, un identificador en línea o a uno o más factores específicos de la identidad física, fisiológica, genética, mental, económica, cultural o social de esa persona física.
+
+### b) Persona Interesada
+
+Persona interesada es cualquier persona física identificada o identificable, cuyos datos personales son procesados por el controlador responsable del procesamiento.
+
+### c) Procesamiento
+
+Procesamiento es cualquier operación o conjunto de operaciones que se realiza en datos personales o en conjuntos de datos personales, ya sea por medios automatizados o no, como la recopilación, el registro, la organización, la estructuración, el almacenamiento, la adaptación o alteración, la recuperación, la consulta, el uso, la divulgación mediante transmisión, difusión o cualquier otra forma de disposición, la alineación o combinación, la restricción, el borrado o la destrucción.
+
+### d) Restricción del Procesamiento
+
+Restricción del procesamiento es la marcación de los datos personales almacenados con el objetivo de limitar su procesamiento en el futuro.
+
+### e) Elaboración de Perfiles (Profiling)
+
+Elaboración de perfiles significa cualquier forma de procesamiento automatizado de datos personales que consiste en utilizar datos personales para evaluar ciertos aspectos personales relacionados con una persona física, en particular para analizar o predecir aspectos relacionados con el desempeño laboral, la situación económica, la salud, las preferencias personales, los intereses, la fiabilidad, el comportamiento, la ubicación o los movimientos de esa persona física.
+
+### f) Seudonimización
+
+Seudonimización es el procesamiento de datos personales de tal manera que los datos personales ya no pueden atribuirse a una persona interesada específica sin el uso de información adicional, siempre que dicha información adicional se mantenga por separado y esté sujeta a medidas técnicas y organizativas para garantizar que los datos personales no se atribuyan a una persona física identificada o identificable.
+
+### g) Controlador o Controlador Responsable del Procesamiento
+
+Controlador o controlador responsable del procesamiento es la persona física o jurídica, autoridad pública, agencia u otro organismo que, solo o junto con otros, determine los fines y medios del procesamiento de datos personales. Cuando los fines y medios de dicho procesamiento estén determinados por la legislación de la Unión o de los Estados miembros, el controlador o los criterios específicos para su nombramiento podrán estar previstos por la legislación de la Unión o de los Estados miembros.
+
+### h) Procesador
+
+Procesador es una persona física o jurídica, autoridad pública, agencia u otro organismo que procese datos personales en nombre del controlador.
+
+### i) Destinatario
+
+Destinatario es una persona física o jurídica, autoridad pública, agencia u otro organismo al que se divulguen los datos personales, ya sea un tercero o no. Sin embargo, las autoridades públicas que pueden recibir datos personales en el marco de una investigación particular de conformidad con la legislación de la Unión o de los Estados miembros no se consideran destinatarios.
+
+### j) Tercero
+
+Tercero es una persona física o jurídica, autoridad pública, agencia u organismo distinto de la persona interesada, el controlador, el procesador y las personas que, bajo la autoridad directa del controlador o del procesador, están autorizadas para procesar datos personales.
+
+### k) Consentimiento
+
+El consentimiento de la persona interesada es cualquier manifestación de voluntad libre, específica, informada e inequívoca de la persona interesada por la que, mediante una declaración o una clara acción afirmativa, acepta el procesamiento de datos personales que le conciernen.
+
+---
+
+## 2. Nombre y Dirección del Controlador
+
+Controlador para los fines del Reglamento General de Protección de Datos (RGPD), otras leyes de protección de datos aplicables en los Estados miembros de la Unión Europea y otras disposiciones relacionadas con la protección de datos es:
+
+Club de Ajedrez Ilmenauer e.V.  
 Goetheallee 1a  
 98693 Ilmenau  
-Deutschland
+Alemania
 
 Tel.: +49 (0) 3677-882961  
-E-Mail: info@ilmenauer-schachverein.de  
-Website: [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de)  
+Correo electrónico: info@ilmenauer-schachverein.de  
+Sitio web: [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de)  
 
 ---
 
 ## 3. Cookies
 
-Die Internetseiten der Ilmenauer Schachverein e.V. verwenden Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem Computersystem abgelegt und gespeichert werden.
+Las páginas de Internet del Club de Ajedrez Ilmenauer e.V. utilizan cookies. Las cookies son archivos de texto que se almacenan en un sistema informático a través de un navegador de Internet.
 
-Zahlreiche Internetseiten und Server verwenden Cookies. Viele Cookies enthalten eine sogenannte Cookie-ID. Eine Cookie-ID ist eine eindeutige Kennung des Cookies. Sie besteht aus einer Zeichenfolge, durch welche Internetseiten und Server dem konkreten Internetbrowser zugeordnet werden können, in dem das Cookie gespeichert wurde. Dies ermöglicht es den besuchten Internetseiten und Servern, den individuellen Browser der betroffenen Person von anderen Internetbrowsern, die andere Cookies enthalten, zu unterscheiden. Ein bestimmter Internetbrowser kann über die eindeutige Cookie-ID wiedererkannt und identifiziert werden.
+Muchos sitios y servidores de Internet utilizan cookies. Muchas cookies contienen un llamado ID de cookie. Un ID de cookie es un identificador único de la cookie. Consiste en una cadena de caracteres a través de la cual las páginas y servidores de Internet pueden asignarse al navegador de Internet específico en el que se almacenó la cookie. Esto permite que las páginas y servidores de Internet visitados diferencien el navegador individual de la persona interesada de otros navegadores de Internet que contienen otras cookies. Un navegador de Internet específico puede ser reconocido e identificado mediante el ID de cookie único.
 
-Durch den Einsatz von Cookies kann die Ilmenauer Schachverein e.V. den Nutzern dieser Internetseite nutzerfreundlichere Services bereitstellen, die ohne die Cookie-Setzung nicht möglich wären.
+Mediante el uso de cookies, el Club de Ajedrez Ilmenauer e.V. puede proporcionar a los usuarios de este sitio web servicios más fáciles de usar que no serían posibles sin la configuración de cookies.
 
-Mittels eines Cookies können die Informationen und Angebote auf unserer Internetseite im Sinne des Benutzers optimiert werden. Cookies ermöglichen uns, wie bereits erwähnt, die Benutzer unserer Internetseite wiederzuerkennen. Zweck dieser Wiedererkennung ist es, den Nutzern die Verwendung unserer Internetseite zu erleichtern. Der Benutzer einer Internetseite, die Cookies verwendet, muss beispielsweise nicht bei jedem Besuch der Internetseite erneut seine Zugangsdaten eingeben, weil dies von der Internetseite und dem auf dem Computersystem des Benutzers abgelegten Cookie übernommen wird. Ein weiteres Beispiel ist das Cookie eines Warenkorbes im Online-Shop. Der Online-Shop merkt sich die Artikel, die ein Kunde in den virtuellen Warenkorb gelegt hat, über ein Cookie.
+Mediante una cookie, la información y las ofertas en nuestro sitio web pueden optimizarse pensando en el usuario. Las cookies nos permiten, como se mencionó anteriormente, reconocer a nuestros usuarios del sitio web. El propósito de este reconocimiento es facilitar a los usuarios la utilización de nuestro sitio web. El usuario del sitio web que utiliza cookies, por ejemplo, no tiene que ingresar los datos de acceso cada vez que accede al sitio web, porque esto lo toma el sitio web y la cookie se almacena en el sistema informático del usuario. Otro ejemplo es la cookie de un carrito de compras en una tienda en línea. La tienda en línea recuerda los artículos que un cliente ha colocado en el carrito de compras virtual a través de una cookie.
 
-Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Ferner können bereits gesetzte Cookies jederzeit über einen Internetbrowser oder andere Softwareprogramme gelöscht werden. Dies ist in allen gängigen Internetbrowsern möglich. Deaktiviert die betroffene Person die Setzung von Cookies in dem genutzten Internetbrowser, sind unter Umständen nicht alle Funktionen unserer Internetseite vollumfänglich nutzbar.
-
----
-
-## 4. Erfassung von allgemeinen Daten und Informationen
-
-Die Internetseite der Ilmenauer Schachverein e.V. erfasst mit jedem Aufruf der Internetseite durch eine betroffene Person oder ein automatisiertes System eine Reihe von allgemeinen Daten und Informationen. Diese allgemeinen Daten und Informationen werden in den Logfiles des Servers gespeichert. Erfasst werden können die (1) verwendeten Browsertypen und Versionen, (2) das vom zugreifenden System verwendete Betriebssystem, (3) die Internetseite, von welcher ein zugreifendes System auf unsere Internetseite gelangt (sogenannte Referrer), (4) die Unterwebseiten, welche über ein zugreifendes System auf unserer Internetseite angesteuert werden, (5) das Datum und die Uhrzeit eines Zugriffs auf die Internetseite, (6) eine Internet-Protokoll-Adresse (IP-Adresse), (7) der Internet-Service-Provider des zugreifenden Systems und (8) sonstige ähnliche Daten und Informationen, die der Gefahrenabwehr im Falle von Angriffen auf unsere informationstechnologischen Systeme dienen.
-
-Bei der Nutzung dieser allgemeinen Daten und Informationen zieht die Ilmenauer Schachverein e.V. keine Rückschlüsse auf die betroffene Person. Diese Informationen werden vielmehr benötigt, um (1) die Inhalte unserer Internetseite korrekt auszuliefern, (2) die Inhalte unserer Internetseite sowie die Werbung für diese zu optimieren, (3) die dauerhafte Funktionsfähigkeit unserer informationstechnologischen Systeme und der Technik unserer Internetseite zu gewährleisten sowie (4) um Strafverfolgungsbehörden im Falle eines Cyberangriffes die zur Strafverfolgung notwendigen Informationen bereitzustellen. Diese anonym erhobenen Daten und Informationen werden durch die Ilmenauer Schachverein e.V. daher einerseits statistisch und ferner mit dem Ziel ausgewertet, den Datenschutz und die Datensicherheit in unserem Unternehmen zu erhöhen, um letztlich ein optimales Schutzniveau für die von uns verarbeiteten personenbezogenen Daten sicherzustellen. Die anonymen Daten der Server-Logfiles werden getrennt von allen durch eine betroffene Person angegebenen personenbezogenen Daten gespeichert.
+La persona interesada puede, en cualquier momento, evitar la configuración de cookies a través de nuestro sitio web mediante un ajuste correspondiente del navegador de Internet utilizado y, por lo tanto, puede negar permanentemente la configuración de cookies. Además, las cookies ya configuradas pueden eliminarse en cualquier momento a través de un navegador de Internet u otros programas de software. Esto es posible en todos los navegadores de Internet populares. Si la persona interesada desactiva la configuración de cookies en el navegador de Internet utilizado, es posible que no todas las funciones de nuestro sitio web sean completamente utilizables.
 
 ---
 
-## 5. Kontaktmöglichkeit über die Internetseite
+## 4. Recopilación de Datos e Información General
 
-Die Internetseite der Ilmenauer Schachverein e.V. enthält aufgrund von gesetzlichen Vorschriften Angaben, die eine schnelle elektronische Kontaktaufnahme zu unserem Unternehmen sowie eine unmittelbare Kommunikation mit uns ermöglichen, was ebenfalls eine allgemeine Adresse der sogenannten elektronischen Post (E-Mail-Adresse) umfasst. Sofern eine betroffene Person per E-Mail oder über ein Kontaktformular den Kontakt mit dem für die Verarbeitung Verantwortlichen aufnimmt, werden die von der betroffenen Person übermittelten personenbezogenen Daten automatisch gespeichert. Solche auf freiwilliger Basis von einer betroffenen Person an den für die Verarbeitung Verantwortlichen übermittelten personenbezogenen Daten werden für Zwecke der Bearbeitung oder der Kontaktaufnahme zur betroffenen Person gespeichert. Es erfolgt keine Weitergabe dieser personenbezogenen Daten an Dritte.
+El sitio web del Club de Ajedrez Ilmenauer e.V. recopila una serie de datos e información general cuando una persona interesada o un sistema automatizado llama al sitio web. Estos datos e información general se almacenan en los archivos de registro del servidor. Se pueden recopilar (1) los tipos y versiones de navegador utilizados, (2) el sistema operativo utilizado por el sistema de acceso, (3) el sitio web desde el cual un sistema de acceso llega a nuestro sitio web (los llamados referidores), (4) los sub-sitios web, (5) la fecha y hora de acceso al sitio de Internet, (6) una dirección de protocolo de Internet (dirección IP), (7) el proveedor de servicios de Internet del sistema de acceso y (8) cualquier otro dato e información similar que pueda utilizarse en caso de ataques a nuestros sistemas de tecnología de la información.
 
----
-
-## 6. Routinemäßige Löschung und Sperrung von personenbezogenen Daten
-
-Der für die Verarbeitung Verantwortliche verarbeitet und speichert personenbezogene Daten der betroffenen Person nur für den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder sofern dies durch den Europäischen Richtlinien- und Verordnungsgeber oder einen anderen Gesetzgeber in Gesetzen oder Vorschriften, welchen der für die Verarbeitung Verantwortliche unterliegt, vorgesehen wurde.
-
-Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- und Verordnungsgeber oder einem anderen zuständigen Gesetzgeber vorgeschriebene Speicherfrist ab, werden die personenbezogenen Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
+Cuando utiliza estos datos e información general, el Club de Ajedrez Ilmenauer e.V. no saca conclusiones sobre la persona interesada. Más bien, esta información es necesaria para (1) entregar correctamente el contenido de nuestro sitio web, (2) optimizar el contenido de nuestro sitio web, así como su publicidad, (3) garantizar la viabilidad a largo plazo de nuestros sistemas de tecnología de la información y tecnología del sitio web, y (4) proporcionar a las autoridades policiales la información necesaria para el enjuiciamiento penal en caso de un ataque cibernético. Por lo tanto, el Club de Ajedrez Ilmenauer e.V. analiza estadísticamente datos e información recopilados de forma anónima, con el objetivo de aumentar la protección de datos y la seguridad de datos de nuestra empresa y garantizar un nivel óptimo de protección para los datos personales que procesamos. Los datos anónimos de los archivos de registro del servidor se almacenan por separado de todos los datos personales proporcionados por una persona interesada.
 
 ---
 
-## 7. Rechte der betroffenen Person
+## 5. Posibilidad de Contacto a través del Sitio Web
 
-### a) Recht auf Bestätigung
-
-Jede betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber eingeräumte Recht, von dem für die Verarbeitung Verantwortlichen eine Bestätigung darüber zu verlangen, ob sie betreffende personenbezogene Daten verarbeitet werden. Möchte eine betroffene Person dieses Bestätigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.
-
-### b) Recht auf Auskunft
-
-Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, jederzeit von dem für die Verarbeitung Verantwortlichen unentgeltliche Auskunft über die zu seiner Person gespeicherten personenbezogenen Daten und eine Kopie dieser Auskunft zu erhalten. Ferner hat der Europäische Richtlinien- und Verordnungsgeber der betroffenen Person Auskunft über folgende Informationen zugestanden:
-
-- die Verarbeitungszwecke
-- die Kategorien personenbezogener Daten, die verarbeitet werden
-- die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationen
-- falls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer
-- das Bestehen eines Rechts auf Berichtigung oder Löschung der sie betreffenden personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung
-- das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde
-- wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden: Alle verfügbaren Informationen über die Herkunft der Daten
-- das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Artikel 22 Abs.1 und 4 DS-GVO und — zumindest in diesen Fällen — aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für die betroffene Person
-
-Ferner steht der betroffenen Person ein Auskunftsrecht darüber zu, ob personenbezogene Daten an ein Drittland oder an eine internationale Organisation übermittelt wurden. Sofern dies der Fall ist, so steht der betroffenen Person im Übrigen das Recht zu, Auskunft über die geeigneten Garantien im Zusammenhang mit der Übermittlung zu erhalten.
-
-Möchte eine betroffene Person dieses Auskunftsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.
-
-### c) Recht auf Berichtigung
-
-Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, die unverzügliche Berichtigung sie betreffender unrichtiger personenbezogener Daten zu verlangen. Ferner steht der betroffenen Person das Recht zu, unter Berücksichtigung der Zwecke der Verarbeitung, die Vervollständigung unvollständiger personenbezogener Daten — auch mittels einer ergänzenden Erklärung — zu verlangen.
-
-Möchte eine betroffene Person dieses Berichtigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.
-
-### d) Recht auf Löschung (Recht auf Vergessenwerden)
-
-Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, von dem Verantwortlichen zu verlangen, dass die sie betreffenden personenbezogenen Daten unverzüglich gelöscht werden, sofern einer der folgenden Gründe zutrifft und soweit die Verarbeitung nicht erforderlich ist:
-
-- Die personenbezogenen Daten wurden für solche Zwecke erhoben oder auf sonstige Weise verarbeitet, für welche sie nicht mehr notwendig sind.
-- Die betroffene Person widerruft ihre Einwilligung, auf die sich die Verarbeitung gemäß Art. 6 Abs. 1 Buchstabe a DS-GVO oder Art. 9 Abs. 2 Buchstabe a DS-GVO stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung.
-- Die betroffene Person legt gemäß Art. 21 Abs. 1 DS-GVO Widerspruch gegen die Verarbeitung ein, und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder die betroffene Person legt gemäß Art. 21 Abs. 2 DS-GVO Widerspruch gegen die Verarbeitung ein.
-- Die personenbezogenen Daten wurden unrechtmäßig verarbeitet.
-- Die Löschung der personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.
-- Die personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DS-GVO erhoben.
-
-Sofern einer der oben genannten Gründe zutrifft und eine betroffene Person die Löschung von personenbezogenen Daten, die bei der Ilmenauer Schachverein e.V. gespeichert sind, veranlassen möchte, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der Ilmenauer Schachverein e.V. wird veranlassen, dass dem Löschverlangen unverzüglich nachgekommen wird.
-
-Wurden die personenbezogenen Daten von der Ilmenauer Schachverein e.V. öffentlich gemacht und ist unser Unternehmen als Verantwortlicher gemäß Art. 17 Abs. 1 DS-GVO zur Löschung der personenbezogenen Daten verpflichtet, so trifft die Ilmenauer Schachverein e.V. unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um andere für die Datenverarbeitung Verantwortliche, welche die veröffentlichten personenbezogenen Daten verarbeiten, darüber in Kenntnis zu setzen, dass die betroffene Person von diesen anderen für die Datenverarbeitung Verantwortlichen die Löschung sämtlicher Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt hat, soweit die Verarbeitung nicht erforderlich ist. Der Mitarbeiter der Ilmenauer Schachverein e.V. wird im Einzelfall das Notwendige veranlassen.
-
-### e) Recht auf Einschränkung der Verarbeitung
-
-Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, von dem Verantwortlichen die Einschränkung der Verarbeitung zu verlangen, wenn eine der folgenden Voraussetzungen gegeben ist:
-
-- Die Richtigkeit der personenbezogenen Daten wird von der betroffenen Person bestritten, und zwar für eine Dauer, die es dem Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen.
-- Die Verarbeitung ist unrechtmäßig, die betroffene Person lehnt die Löschung der personenbezogenen Daten ab und verlangt stattdessen die Einschränkung der Nutzung der personenbezogenen Daten.
-- Der Verantwortliche benötigt die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger, die betroffene Person benötigt sie jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
-- Die betroffene Person hat Widerspruch gegen die Verarbeitung gem. Art. 21 Abs. 1 DS-GVO eingelegt und es steht noch nicht fest, ob die berechtigten Gründe des Verantwortlichen gegenüber denen der betroffenen Person überwiegen.
-
-Sofern eine der oben genannten Voraussetzungen gegeben ist und eine betroffene Person die Einschränkung von personenbezogenen Daten, die bei der Ilmenauer Schachverein e.V. gespeichert sind, verlangen möchte, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der Ilmenauer Schachverein e.V. wird die Einschränkung der Verarbeitung veranlassen.
-
-### f) Recht auf Datenübertragbarkeit
-
-Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, die sie betreffenden personenbezogenen Daten, welche durch die betroffene Person einem Verantwortlichen bereitgestellt wurden, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Sie hat außerdem das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch den Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern die Verarbeitung auf der Einwilligung gemäß Art. 6 Abs. 1 Buchstabe a DS-GVO oder Art. 9 Abs. 2 Buchstabe a DS-GVO oder auf einem Vertrag gemäß Art. 6 Abs. 1 Buchstabe b DS-GVO beruht und die Verarbeitung mithilfe automatisierter Verfahren erfolgt, sofern die Verarbeitung nicht für die Wahrnehmung einer Aufgabe erforderlich ist, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, welche dem Verantwortlichen übertragen wurde.
-
-Ferner hat die betroffene Person bei der Ausübung ihres Rechts auf Datenübertragbarkeit gemäß Art. 20 Abs. 1 DS-GVO das Recht, zu erwirken, dass die personenbezogenen Daten direkt von einem Verantwortlichen an einen anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist und sofern hiervon nicht die Rechte und Freiheiten anderer Personen beeinträchtigt werden.
-
-Zur Geltendmachung des Rechts auf Datenübertragbarkeit kann sich die betroffene Person jederzeit an einen Mitarbeiter der Ilmenauer Schachverein e.V. wenden.
-
-### g) Recht auf Widerspruch
-
-Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung sie betreffender personenbezogener Daten, die aufgrund von Art. 6 Abs. 1 Buchstaben e oder f DS-GVO erfolgt, Widerspruch einzulegen. Dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling.
-
-Die Ilmenauer Schachverein e.V. verarbeitet die personenbezogenen Daten im Falle des Widerspruchs nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die den Interessen, Rechten und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
-
-Verarbeitet die Ilmenauer Schachverein e.V. personenbezogene Daten, um Direktwerbung zu betreiben, so hat die betroffene Person das Recht, jederzeit Widerspruch gegen die Verarbeitung der personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen. Dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. Widerspricht die betroffene Person gegenüber der Ilmenauer Schachverein e.V. der Verarbeitung für Zwecke der Direktwerbung, so wird die Ilmenauer Schachverein e.V. die personenbezogenen Daten nicht mehr für diese Zwecke verarbeiten.
-
-Zudem hat die betroffene Person das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, gegen die sie betreffende Verarbeitung personenbezogener Daten, die bei der Ilmenauer Schachverein e.V. zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen Zwecken gemäß Art. 89 Abs. 1 DS-GVO erfolgen, Widerspruch einzulegen, es sei denn, eine solche Verarbeitung ist zur Erfüllung einer im öffentlichen Interesse liegenden Aufgabe erforderlich.
-
-Zur Ausübung des Rechts auf Widerspruch kann sich die betroffene Person direkt jeden Mitarbeiter der Ilmenauer Schachverein e.V. oder einen anderen Mitarbeiter wenden. Der betroffenen Person steht es ferner frei, im Zusammenhang mit der Nutzung von Diensten der Informationsgesellschaft, ungeachtet der Richtlinie 2002/58/EG, ihr Widerspruchsrecht mittels automatisierter Verfahren auszuüben, bei denen technische Spezifikationen verwendet werden.
-
-### h) Automatisierte Entscheidungen im Einzelfall einschließlich Profiling
-
-Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung — einschließlich Profiling — beruhenden Entscheidung unterworfen zu werden, die ihr gegenüber rechtliche Wirkung entfaltet oder sie in ähnlicher Weise erheblich beeinträchtigt, sofern die Entscheidung (1) nicht für den Abschluss oder die Erfüllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich ist, oder (2) aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten, denen der Verantwortliche unterliegt, zulässig ist und diese Rechtsvorschriften angemessene Maßnahmen zur Wahrung der Rechte und Freiheiten sowie der berechtigten Interessen der betroffenen Person enthalten oder (3) mit ausdrücklicher Einwilligung der betroffenen Person erfolgt.
-
-Ist die Entscheidung (1) für den Abschluss oder die Erfüllung eines Vertrags zwischen der betroffenen Person und dem Verantwortlichen erforderlich oder (2) erfolgt sie mit ausdrücklicher Einwilligung der betroffenen Person, trifft die Ilmenauer Schachverein e.V. angemessene Maßnahmen, um die Rechte und Freiheiten sowie die berechtigten Interessen der betroffenen Person zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung gehört.
-
-Möchte die betroffene Person Rechte mit Bezug auf automatisierte Entscheidungen geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.
-
-### i) Recht auf Widerruf einer datenschutzrechtlichen Einwilligung
-
-Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, eine Einwilligung zur Verarbeitung personenbezogener Daten jederzeit zu widerrufen.
-
-Möchte die betroffene Person ihr Recht auf Widerruf einer Einwilligung geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.
+El sitio web del Club de Ajedrez Ilmenauer e.V. contiene información que permite un contacto electrónico rápido con nuestra empresa, así como una comunicación directa con nosotros, que también incluye una dirección general del llamado correo electrónico (dirección de correo electrónico). Si una persona interesada contacta al controlador por correo electrónico o mediante un formulario de contacto, los datos personales transmitidos por la persona interesada se almacenan automáticamente. Dichos datos personales transmitidos de forma voluntaria por una persona interesada al controlador de datos se almacenan con el propósito de procesar o contactar a la persona interesada. No se realiza transferencia de estos datos personales a terceros.
 
 ---
 
-## 8. Datenschutzbestimmungen zu Einsatz und Verwendung von Facebook
+## 6. Borrado y Bloqueo Rutinario de Datos Personales
 
-Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Komponenten des Unternehmens Facebook integriert. Facebook ist ein soziales Netzwerk.
+El controlador de datos procesará y almacenará los datos personales de la persona interesada solo durante el período necesario para lograr el propósito del almacenamiento, o en la medida en que lo conceda el legislador europeo u otros legisladores en leyes o reglamentos a los que el controlador esté sujeto.
 
-Ein soziales Netzwerk ist ein im Internet betriebener sozialer Treffpunkt, eine Online-Gemeinschaft, die es den Nutzern in der Regel ermöglicht, untereinander zu kommunizieren und im virtuellen Raum zu interagieren. Ein soziales Netzwerk kann als Plattform zum Austausch von Meinungen und Erfahrungen dienen oder ermöglicht es der Internetgemeinschaft, persönliche oder unternehmensbezogene Informationen bereitzustellen. Facebook ermöglicht den Nutzern des sozialen Netzwerkes unter anderem die Erstellung von privaten Profilen, den Upload von Fotos und eine Vernetzung über Freundschaftsanfragen.
-
-Betreibergesellschaft von Facebook ist die Facebook, Inc., 1 Hacker Way, Menlo Park, CA 94025, USA. Für die Verarbeitung personenbezogener Daten Verantwortlicher ist, wenn eine betroffene Person außerhalb der USA oder Kanada lebt, die Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland.
-
-Durch jeden Aufruf einer der Einzelseiten dieser Internetseite, die durch den für die Verarbeitung Verantwortlichen betrieben wird und auf welcher eine Facebook-Komponente (Facebook-Plug-In) integriert wurde, wird der Internetbrowser auf dem informationstechnologischen System der betroffenen Person automatisch durch die jeweilige Facebook-Komponente veranlasst, eine Darstellung der entsprechenden Facebook-Komponente von Facebook herunterzuladen. Eine Gesamtübersicht über alle Facebook-Plug-Ins kann unter [https://developers.facebook.com/docs/plugins/?locale=de_DE](https://developers.facebook.com/docs/plugins/?locale=de_DE) abgerufen werden. Im Rahmen dieses technischen Verfahrens erhält Facebook Kenntnis darüber, welche konkrete Unterseite unserer Internetseite durch die betroffene Person besucht wird.
-
-Sofern die betroffene Person gleichzeitig bei Facebook eingeloggt ist, erkennt Facebook mit jedem Aufruf unserer Internetseite durch die betroffene Person und während der gesamten Dauer des jeweiligen Aufenthaltes auf unserer Internetseite, welche konkrete Unterseite unserer Internetseite die betroffene Person besucht. Diese Informationen werden durch die Facebook-Komponente gesammelt und durch Facebook dem jeweiligen Facebook-Account der betroffenen Person zugeordnet. Betätigt die betroffene Person einen der auf unserer Internetseite integrierten Facebook-Buttons, beispielsweise den „Gefällt mir“-Button, oder gibt die betroffene Person einen Kommentar ab, ordnet Facebook diese Information dem persönlichen Facebook-Benutzerkonto der betroffenen Person zu und speichert diese personenbezogenen Daten.
-
-Facebook erhält über die Facebook-Komponente immer dann eine Information darüber, dass die betroffene Person unsere Internetseite besucht hat, wenn die betroffene Person zum Zeitpunkt des Aufrufs unserer Internetseite gleichzeitig bei Facebook eingeloggt ist; dies findet unabhängig davon statt, ob die betroffene Person die Facebook-Komponente anklickt oder nicht. Ist eine derartige Übermittlung dieser Informationen an Facebook von der betroffenen Person nicht gewollt, kann diese die Übermittlung dadurch verhindern, dass sie sich vor einem Aufruf unserer Internetseite aus ihrem Facebook-Account ausloggt.
-
-Die von Facebook veröffentlichte Datenrichtlinie, die unter [https://de-de.facebook.com/about/privacy/](https://de-de.facebook.com/about/privacy/) abrufbar ist, gibt Aufschluss über die Erhebung, Verarbeitung und Nutzung personenbezogener Daten durch Facebook. Ferner wird dort erläutert, welche Einstellungsmöglichkeiten Facebook zum Schutz der Privatsphäre der betroffenen Person bietet. Zudem sind unterschiedliche Applikationen erhältlich, die es ermöglichen, eine Datenübermittlung an Facebook zu unterdrücken. Solche Applikationen können durch die betroffene Person genutzt werden, um eine Datenübermittlung an Facebook zu unterdrücken.
+Si el propósito de almacenamiento no es aplicable, o si un período de almacenamiento prescrito por el legislador europeo u otro legislador competente expira, los datos personales se bloquean o borran de forma rutinaria de acuerdo con los requisitos legales.
 
 ---
 
-## 9. Datenschutzbestimmungen zu Einsatz und Verwendung von Google Analytics (mit Anonymisierungsfunktion)
+## 7. Derechos de la Persona Interesada
 
-Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite die Komponente Google Analytics (mit Anonymisierungsfunktion) integriert. Google Analytics ist ein Web-Analyse-Dienst. Web-Analyse ist die Erhebung, Sammlung und Auswertung von Daten über das Verhalten von Besuchern von Internetseiten. Ein Web-Analyse-Dienst erfasst unter anderem Daten darüber, von welcher Internetseite eine betroffene Person auf eine Internetseite gekommen ist (sogenannte Referrer), auf welche Unterseiten der Internetseite zugegriffen oder wie oft und für welche Verweildauer eine Unterseite betrachtet wurde. Eine Web-Analyse wird überwiegend zur Optimierung einer Internetseite und zur Kosten-Nutzen-Analyse von Internetwerbung eingesetzt.
+### a) Derecho de Confirmación
 
-Betreibergesellschaft der Google-Analytics-Komponente ist die Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA.
+Cada persona interesada tendrá derecho, concedido por el legislador europeo, a obtener del controlador la confirmación de si se están procesando o no datos personales que le conciernen. Si una persona interesada desea hacer uso de este derecho de confirmación, puede, en cualquier momento, contactar a cualquier empleado del controlador.
 
-Der für die Verarbeitung Verantwortliche verwendet für die Web-Analyse über Google Analytics den Zusatz „_gat._anonymizeIp“. Mittels dieses Zusatzes wird die IP-Adresse des Internetanschlusses der betroffenen Person von Google gekürzt und anonymisiert, wenn der Zugriff auf unsere Internetseiten aus einem Mitgliedstaat der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erfolgt.
+### b) Derecho de Acceso
 
-Der Zweck der Google-Analytics-Komponente ist die Analyse der Besucherströme auf unserer Internetseite. Google nutzt die gewonnenen Daten und Informationen unter anderem dazu, die Nutzung unserer Internetseite auszuwerten, um für uns Online-Reports, welche die Aktivitäten auf unseren Internetseiten aufzeigen, zusammenzustellen, und um weitere mit der Nutzung unserer Internetseite in Verbindung stehende Dienstleistungen zu erbringen.
+Cada persona interesada tendrá derecho, concedido por el legislador europeo, a obtener del controlador información gratuita sobre sus datos personales almacenados en cualquier momento y una copia de esta información. Además, las directivas y regulaciones europeas otorgan a la persona interesada acceso a la siguiente información:
 
-Google Analytics setzt ein Cookie auf dem informationstechnologischen System der betroffenen Person. Was Cookies sind, wurde oben bereits erläutert. Mit Setzung des Cookies wird Google eine Analyse der Benutzung unserer Internetseite ermöglicht. Durch jeden Aufruf einer der Einzelseiten dieser Internetseite, die durch den für die Verarbeitung Verantwortlichen betrieben wird und auf welcher eine Google-Analytics-Komponente integriert wurde, wird der Internetbrowser auf dem informationstechnologischen System der betroffenen Person automatisch durch die jeweilige Google-Analytics-Komponente veranlasst, Daten zum Zwecke der Online-Analyse an Google zu übermitteln. Im Rahmen dieses technischen Verfahrens erhält Google Kenntnis über personenbezogene Daten, wie der IP-Adresse der betroffenen Person, die Google unter anderem dazu dienen, die Herkunft der Besucher und Klicks nachzuvollziehen und in der Folge Provisionsabrechnungen zu ermöglichen.
+- los propósitos del procesamiento;
+- las categorías de datos personales en cuestión;
+- los destinatarios o categorías de destinatarios a los que se han divulgado o se divulgarán los datos personales, en particular destinatarios en terceros países u organizaciones internacionales;
+- cuando sea posible, el período previsto durante el cual se almacenarán los datos personales, o, si no es posible, los criterios utilizados para determinar ese período;
+- la existencia del derecho a solicitar del controlador la rectificación o el borrado de datos personales, o la restricción del procesamiento de datos personales que conciernen a la persona interesada, o para oponerse a dicho procesamiento;
+- la existencia del derecho a presentar una queja ante una autoridad de supervisión;
+- cuando los datos personales no se recopilen de la persona interesada, cualquier información disponible sobre su origen;
+- la existencia de decisiones automatizadas, incluida la elaboración de perfiles, a que se refiere el artículo 22(1) y (4) del RGPD y, al menos en esos casos, información significativa sobre la lógica involucrada, así como la importancia y las consecuencias previstas de dicho procesamiento para la persona interesada.
 
-Mittels des Cookies werden personenbezogene Informationen, beispielsweise die Zugriffszeit, der Ort, von welchem ein Zugriff ausging und die Häufigkeit der Besuche unserer Internetseite durch die betroffene Person, gespeichert. Bei jedem Besuch unserer Internetseiten werden diese personenbezogenen Daten, einschließlich der IP-Adresse des von der betroffenen Person genutzten Internetanschlusses, an Google in den Vereinigten Staaten von Amerika übertragen. Diese personenbezogenen Daten werden durch Google in den Vereinigten Staaten von Amerika gespeichert. Google gibt diese über das technische Verfahren erhobenen personenbezogenen Daten unter Umständen an Dritte weiter.
+Además, la persona interesada tendrá derecho a obtener información sobre si los datos personales se transfieren a un tercer país o a una organización internacional. En el caso de que así sea, la persona interesada tendrá derecho a ser informada de las garantías adecuadas en relación con la transferencia.
 
-Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite, wie oben bereits dargestellt, jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Eine solche Einstellung des genutzten Internetbrowsers würde auch verhindern, dass Google ein Cookie auf dem informationstechnologischen System der betroffenen Person setzt. Zudem kann ein von Google Analytics bereits gesetzter Cookie jederzeit über den Internetbrowser oder andere Softwareprogramme gelöscht werden.
+Si una persona interesada desea hacer uso de este derecho de acceso, puede, en cualquier momento, contactar a cualquier empleado del controlador.
 
-Ferner besteht für die betroffene Person die Möglichkeit, einer Erfassung der durch Google Analytics erzeugten, auf eine Nutzung dieser Internetseite bezogenen Daten sowie der Verarbeitung dieser Daten durch Google zu widersprechen und eine solche zu verhindern. Hierzu muss die betroffene Person ein Browser-Add-On unter dem Link [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) herunterladen und installieren. Dieses Browser-Add-On teilt Google Analytics über JavaScript mit, dass keine Daten und Informationen zu den Besuchen von Internetseiten an Google Analytics übermittelt werden dürfen. Die Installation des Browser-Add-Ons wird von Google als Widerspruch gewertet. Wird das informationstechnologische System der betroffenen Person zu einem späteren Zeitpunkt gelöscht, formatiert oder neu installiert, muss durch die betroffene Person eine erneute Installation des Browser-Add-Ons erfolgen, um Google Analytics zu deaktivieren. Sofern das Browser-Add-On durch die betroffene Person oder einer anderen Person, die ihrem Machtbereich zuzurechnen ist, deinstalliert oder deaktiviert wird, besteht die Möglichkeit der Neuinstallation oder der erneuten Aktivierung des Browser-Add-Ons.
+### c) Derecho a la Rectificación
 
-Weitere Informationen und die geltenden Datenschutzbestimmungen von Google können unter [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/) und unter [http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html) abgerufen werden. Google Analytics wird unter diesem Link [https://www.google.com/intl/de_de/analytics/](https://www.google.com/intl/de_de/analytics/) genauer erläutert.
+Cada persona interesada tendrá derecho, concedido por el legislador europeo, a obtener del controlador sin demora indebida la rectificación de datos personales inexactos que le conciernen. Teniendo en cuenta los propósitos del procesamiento, la persona interesada tendrá derecho a que se completen los datos personales incompletos, incluso mediante una declaración complementaria.
+
+Si una persona interesada desea ejercer este derecho a la rectificación, puede, en cualquier momento, contactar a cualquier empleado del controlador.
+
+### d) Derecho al Borrado (Derecho al Olvido)
+
+Cada persona interesada tendrá derecho, concedido por el legislador europeo, a obtener del controlador el borrado de los datos personales que le conciernen sin demora indebida, y el controlador tendrá la obligación de borrar los datos personales sin demora indebida cuando se aplique uno de los siguientes motivos, siempre que el procesamiento no sea necesario:
+
+- Los datos personales ya no son necesarios en relación con los fines para los que fueron recopilados o procesados de otro modo.
+- La persona interesada retira el consentimiento en el que se basa el procesamiento según el artículo 6(1)(a) del RGPD, o el artículo 9(2)(a) del RGPD, y cuando no haya otro fundamento legal para el procesamiento.
+- La persona interesada se opone al procesamiento conforme al artículo 21(1) del RGPD y no existen motivos legítimos imperiosos para el procesamiento, o la persona interesada se opone al procesamiento conforme al artículo 21(2) del RGPD.
+- Los datos personales han sido procesados ilegalmente.
+- Los datos personales deben borrarse para cumplir con una obligación legal en la legislación de la Unión o de los Estados miembros a la que esté sujeto el controlador.
+- Los datos personales se han recopilado en relación con la oferta de servicios de la sociedad de la información a que se refiere el artículo 8(1) del RGPD.
+
+Si se aplica uno de los motivos mencionados anteriormente, y una persona interesada desea solicitar el borrado de los datos personales almacenados por el Club de Ajedrez Ilmenauer e.V., puede, en cualquier momento, contactar a cualquier empleado del controlador. Un empleado del Club de Ajedrez Ilmenauer e.V. se asegurará de que la solicitud de borrado se cumpla de inmediato.
+
+Donde el controlador ha hecho públicos los datos personales y está obligado según el artículo 17(1) a borrar los datos personales, el controlador, teniendo en cuenta la tecnología disponible y el costo de implementación, tomará medidas razonables, incluidas medidas técnicas, para informar a otros controladores que procesan los datos personales que la persona interesada ha solicitado que dichos controladores borren cualquier enlace a esos datos personales o copias o replicaciones de esos datos personales, en la medida en que el procesamiento no sea necesario. Un empleado del Club de Ajedrez Ilmenauer e.V. organizará las medidas necesarias en casos individuales.
+
+### e) Derecho a la Restricción del Procesamiento
+
+Cada persona interesada tendrá derecho, concedido por el legislador europeo, a obtener del controlador la restricción del procesamiento cuando se aplique uno de los siguientes casos:
+
+- La precisión de los datos personales es impugnada por la persona interesada, durante un período que permita al controlador verificar la precisión de los datos personales.
+- El procesamiento es ilegal y la persona interesada se opone al borrado de los datos personales y solicita en su lugar la restricción de su uso.
+- El controlador ya no necesita los datos personales para los fines del procesamiento, pero son requeridos por la persona interesada para el establecimiento, ejercicio o defensa de reclamos legales.
+- La persona interesada se ha opuesto al procesamiento conforme al artículo 21(1) del RGPD, a la espera de la verificación de si los motivos legítimos del controlador prevalecen sobre los de la persona interesada.
+
+Si se cumple una de las condiciones mencionadas anteriormente, y una persona interesada desea solicitar la restricción del procesamiento de datos personales almacenados por el Club de Ajedrez Ilmenauer e.V., puede en cualquier momento contactar a cualquier empleado del controlador. El empleado del Club de Ajedrez Ilmenauer e.V. organizará la restricción del procesamiento.
+
+### f) Derecho a la Portabilidad de Datos
+
+Cada persona interesada tendrá el derecho, concedido por el legislador europeo, a recibir los datos personales que le conciernen, que haya proporcionado a un controlador, en un formato estructurado, de uso común y legible por máquina. Tendrá derecho a transmitir esos datos a otro controlador sin obstáculos por parte del controlador al que se han proporcionado los datos personales, siempre que el procesamiento se base en el consentimiento de acuerdo con el punto (a) del artículo 6(1) del RGPD o el punto (a) del artículo 9(2) del RGPD, o en un contrato de acuerdo con el punto (b) del artículo 6(1) del RGPD, y el procesamiento se realice por medios automatizados, siempre que el procesamiento no sea necesario para la realización de una tarea llevada a cabo en el interés público o en el ejercicio de la autoridad pública conferida al controlador.
+
+Además, al ejercer su derecho a la portabilidad de datos conforme al artículo 20(1) del RGPD, la persona interesada tendrá derecho a que los datos personales se transmitan directamente de un controlador a otro, donde sea técnicamente factible y cuando hacerlo no afecte negativamente los derechos y libertades de los demás.
+
+Para afirmar el derecho a la portabilidad de datos, la persona interesada puede, en cualquier momento, contactar a cualquier empleado del Club de Ajedrez Ilmenauer e.V.
+
+### g) Derecho a Objetar
+
+Cada persona interesada tendrá el derecho, concedido por el legislador europeo, a oponerse, por motivos relacionados con su situación particular, en cualquier momento, al procesamiento de datos personales que le conciernen, que se basa en el punto (e) o (f) del artículo 6(1) del RGPD. Esto también se aplica a la elaboración de perfiles basada en estas disposiciones.
+
+El Club de Ajedrez Ilmenauer e.V. no procesará más los datos personales en caso de objeción, a menos que podamos demostrar motivos legítimos imperiosos para el procesamiento que prevalezcan sobre los intereses, derechos y libertades de la persona interesada, o para el establecimiento, ejercicio o defensa de reclamos legales.
+
+Si el Club de Ajedrez Ilmenauer e.V. procesa datos personales para fines de marketing directo, la persona interesada tendrá derecho a oponerse en cualquier momento al procesamiento de datos personales que le conciernen para dicho marketing. Esto se aplica a la elaboración de perfiles en la medida en que esté relacionada con dicho marketing directo. Si la persona interesada se opone al Club de Ajedrez Ilmenauer e.V. al procesamiento con fines de marketing directo, el Club de Ajedrez Ilmenauer e.V. ya no procesará los datos personales para estos fines.
+
+Además, la persona interesada tiene el derecho, por motivos relacionados con su situación particular, a oponerse al procesamiento de datos personales que le conciernen por parte del Club de Ajedrez Ilmenauer e.V. para fines de investigación científica o histórica, o para fines estadísticos conforme al artículo 89(1) del RGPD, a menos que el procesamiento sea necesario para el cumplimiento de una tarea llevada a cabo por razones de interés público.
+
+Para ejercer el derecho a objetar, la persona interesada puede contactar a cualquier empleado del Club de Ajedrez Ilmenauer e.V. Además, la persona interesada es libre en el contexto del uso de servicios de la sociedad de la información, y no obstante la Directiva 2002/58/CE, de usar su derecho a objetar por medios automatizados utilizando especificaciones técnicas.
+
+### h) Decisiones Individuales Automatizadas, Incluida la Elaboración de Perfiles
+
+Cada persona interesada tendrá el derecho, concedido por el legislador europeo, a no estar sujeta a una decisión basada únicamente en el procesamiento automatizado, incluida la elaboración de perfiles, que produzca efectos legales sobre él o ella, o que lo afecte significativamente de manera similar, siempre que la decisión (1) no sea necesaria para celebrar o cumplir un contrato entre la persona interesada y un controlador de datos, o (2) no esté autorizada por la legislación de la Unión o de los Estados miembros a la que está sujeto el controlador y que también establece medidas adecuadas para salvaguardar los derechos y libertades e intereses legítimos de la persona interesada, o (3) no se base en el consentimiento explícito de la persona interesada.
+
+Si la decisión (1) es necesaria para celebrar o cumplir un contrato entre la persona interesada y un controlador de datos, o (2) se basa en el consentimiento explícito de la persona interesada, el Club de Ajedrez Ilmenauer e.V. implementará medidas adecuadas para salvaguardar los derechos y libertades e intereses legítimos de la persona interesada, al menos el derecho a obtener intervención humana por parte del controlador, a expresar su punto de vista y a impugnar la decisión.
+
+Si la persona interesada desea ejercer los derechos relacionados con la toma de decisiones individuales automatizadas, puede, en cualquier momento, contactar a cualquier empleado del Club de Ajedrez Ilmenauer e.V.
+
+### i) Derecho a Retirar el Consentimiento de Protección de Datos
+
+Cada persona interesada tendrá el derecho, concedido por el legislador europeo, a retirar su consentimiento para el procesamiento de sus datos personales en cualquier momento.
+
+Si la persona interesada desea ejercer el derecho a retirar el consentimiento, puede, en cualquier momento, contactar a cualquier empleado del Club de Ajedrez Ilmenauer e.V.
 
 ---
 
-## 10. Datenschutzbestimmungen zu Einsatz und Verwendung von Instagram
+## 8. Disposiciones de Protección de Datos sobre la Aplicación y Uso de Facebook
 
-Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Komponenten des Dienstes Instagram integriert. Instagram ist ein Dienst, der als audiovisuelle Plattform zu qualifizieren ist und den Nutzern das Teilen von Fotos und Videos und zudem eine Weiterverbreitung solcher Daten in anderen sozialen Netzwerken ermöglicht.
+En este sitio web, el controlador ha integrado componentes de la empresa Facebook. Facebook es una red social.
 
-Betreibergesellschaft der Dienste von Instagram ist die Instagram LLC, 1 Hacker Way, Building 14 First Floor, Menlo Park, CA, USA.
+Una red social es un lugar de encuentro social en Internet, una comunidad en línea, que generalmente permite a los usuarios comunicarse entre sí e interactuar en un espacio virtual. Una red social puede servir como plataforma para el intercambio de opiniones y experiencias o permitir a la comunidad de Internet proporcionar información personal o relacionada con la empresa. Facebook permite a los usuarios de la red social incluir la creación de perfiles privados, cargar fotos y conectarse a través de solicitudes de amistad.
 
-Durch jeden Aufruf einer der Einzelseiten dieser Internetseite, die durch den für die Verarbeitung Verantwortlichen betrieben wird und auf welcher eine Instagram-Komponente (Insta-Button) integriert wurde, wird der Internetbrowser auf dem informationstechnologischen System der betroffenen Person automatisch durch die jeweilige Instagram-Komponente veranlasst, eine Darstellung der entsprechenden Komponente von Instagram herunterzuladen. Im Rahmen dieses technischen Verfahrens erhält Instagram Kenntnis darüber, welche konkrete Unterseite unserer Internetseite durch die betroffene Person besucht wird.
+La empresa operadora de Facebook es Facebook, Inc., 1 Hacker Way, Menlo Park, CA 94025, Estados Unidos. Si una persona vive fuera de los Estados Unidos o Canadá, el controlador es Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublín 2, Irlanda.
 
-Sofern die betroffene Person gleichzeitig bei Instagram eingeloggt ist, erkennt Instagram mit jedem Aufruf unserer Internetseite durch die betroffene Person und während der gesamten Dauer des jeweiligen Aufenthaltes auf unserer Internetseite, welche konkrete Unterseite die betroffene Person besucht. Diese Informationen werden durch die Instagram-Komponente gesammelt und durch Instagram dem jeweiligen Instagram-Account der betroffenen Person zugeordnet. Betätigt die betroffene Person einen der auf unserer Internetseite integrierten Instagram-Buttons, werden die damit übertragenen Daten und Informationen dem persönlichen Instagram-Benutzerkonto der betroffenen Person zugeordnet und von Instagram gespeichert und verarbeitet.
+Con cada llamada a una de las páginas individuales de este sitio de Internet, que es operada por el controlador y en la que se ha integrado un componente de Facebook (plug-ins de Facebook), el navegador web en el sistema informático de la persona interesada se solicita automáticamente que descargue una visualización del componente correspondiente de Facebook a través del componente de Facebook. Se puede acceder a una descripción general de todos los complementos de Facebook en [https://developers.facebook.com/docs/plugins/?locale=es_ES](https://developers.facebook.com/docs/plugins/?locale=es_ES). Durante el curso de este procedimiento técnico, Facebook se da cuenta de qué sub-sitio específico de nuestro sitio web fue visitado por la persona interesada.
 
-Instagram erhält über die Instagram-Komponente immer dann eine Information darüber, dass die betroffene Person unsere Internetseite besucht hat, wenn die betroffene Person zum Zeitpunkt des Aufrufs unserer Internetseite gleichzeitig bei Instagram eingeloggt ist; dies findet unabhängig davon statt, ob die betroffene Person die Instagram-Komponente anklickt oder nicht. Ist eine derartige Übermittlung dieser Informationen an Instagram von der betroffenen Person nicht gewollt, kann diese die Übermittlung dadurch verhindern, dass sie sich vor einem Aufruf unserer Internetseite aus ihrem Instagram-Account ausloggt.
+Si la persona interesada está conectada al mismo tiempo en Facebook, Facebook detecta con cada llamada a nuestro sitio web por parte de la persona interesada, y durante toda la duración de su estancia en nuestro sitio de Internet, qué sub-sitio específico de nuestra página de Internet fue visitado por la persona interesada. Esta información se recopila a través del componente de Facebook y se asocia con la cuenta de Facebook correspondiente de la persona interesada. Si la persona interesada hace clic en uno de los botones de Facebook integrados en nuestro sitio web, por ejemplo, el botón "Me gusta", o si la persona interesada envía un comentario, Facebook asigna esta información a la cuenta personal de usuario de Facebook de la persona interesada y almacena los datos personales.
 
-Weitere Informationen und die geltenden Datenschutzbestimmungen von Instagram können unter [https://help.instagram.com/155833707900388](https://help.instagram.com/155833707900388) und [https://www.instagram.com/about/legal/privacy/](https://www.instagram.com/about/legal/privacy/) abgerufen werden.
+Facebook siempre recibe, a través del componente de Facebook, información sobre una visita a nuestro sitio web por parte de la persona interesada, siempre que la persona interesada esté conectada al mismo tiempo en Facebook durante el tiempo de la llamada a nuestro sitio web. Esto ocurre independientemente de si la persona interesada hace clic en el componente de Facebook o no. Si dicha transmisión de información a Facebook no es deseable para la persona interesada, entonces él o ella puede evitar esto cerrando sesión en su cuenta de Facebook antes de hacer una llamada a nuestro sitio web.
 
----
-
-## 11. Rechtsgrundlage der Verarbeitung
-
-Art. 6 I lit. a DS-GVO dient unserem Unternehmen als Rechtsgrundlage für Verarbeitungsvorgänge, bei denen wir eine Einwilligung für einen bestimmten Verarbeitungszweck einholen. Ist die Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorgängen der Fall ist, die für eine Lieferung von Waren oder die Erbringung einer sonstigen Leistung oder Gegenleistung notwendig sind, so beruht die Verarbeitung auf Art. 6 I lit. b DS-GVO. Gleiches gilt für solche Verarbeitungsvorgänge, die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zu unseren Produkten oder Leistungen. Unterliegt unser Unternehmen einer rechtlichen Verpflichtung, durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6 I lit. c DS-GVO. In seltenen Fällen könnte die Verarbeitung von personenbezogenen Daten erforderlich werden, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen. Dies wäre beispielsweise der Fall, wenn ein Besucher in unserem Betrieb verletzt werden würde und daraufhin sein Name, sein Alter, seine Krankenkassendaten oder sonstige lebenswichtige Informationen an einen Arzt, ein Krankenhaus oder sonstige Dritte weitergegeben werden müssten. Dann würde die Verarbeitung auf Art. 6 I lit. d DS-GVO beruhen. Letztlich könnten Verarbeitungsvorgänge auf Art. 6 I lit. f DS-GVO beruhen. Auf dieser Rechtsgrundlage basieren Verarbeitungsvorgänge, die von keiner der vorgenannten Rechtsgrundlagen erfasst werden, wenn die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich ist, sofern die Interessen, Grundrechte und Grundfreiheiten des Betroffenen nicht überwiegen. Solche Verarbeitungsvorgänge sind uns insbesondere deshalb gestattet, weil sie durch den Europäischen Gesetzgeber besonders erwähnt wurden. Er vertrat insoweit die Auffassung, dass ein berechtigtes Interesse anzunehmen sein könnte, wenn die betroffene Person ein Kunde des Verantwortlichen ist (Erwägungsgrund 47 Satz 2 DS-GVO).
+La política de protección de datos publicada por Facebook, que está disponible en [https://es-la.facebook.com/about/privacy/](https://es-la.facebook.com/about/privacy/), proporciona información sobre la recopilación, procesamiento y uso de datos personales por parte de Facebook. Además, se explica allí qué opciones de configuración ofrece Facebook para proteger la privacidad de la persona interesada. Además, se ponen a disposición diferentes opciones de configuración para permitir la eliminación de la transmisión de datos a Facebook. Estas aplicaciones pueden ser utilizadas por la persona interesada para eliminar una transmisión de datos a Facebook.
 
 ---
 
-## 12. Berechtigte Interessen an der Verarbeitung, die von dem Verantwortlichen oder einem Dritten verfolgt werden
+## 9. Disposiciones de Protección de Datos sobre la Aplicación y Uso de Google Analytics (con Función de Anonimización)
 
-Basiert die Verarbeitung personenbezogener Daten auf Artikel 6 I lit. f DS-GVO ist unser berechtigtes Interesse die Durchführung unserer Geschäftstätigkeit zugunsten des Wohlergehens all unserer Mitarbeiter und unserer Anteilseigner.
+En este sitio web, el controlador ha integrado el componente de Google Analytics (con la función de anonimización). Google Analytics es un servicio de análisis web. El análisis web es la recopilación, recopilación y análisis de datos sobre el comportamiento de los visitantes de sitios web. Un servicio de análisis web recopila, entre otros, datos sobre el sitio web desde el cual una persona ha llegado (los llamados referidores), qué sub-páginas se visitaron o con qué frecuencia y durante qué duración se vio una sub-página. Los análisis web se utilizan principalmente para la optimización de un sitio web y para realizar un análisis costo-beneficio de la publicidad en Internet.
 
----
+La empresa operadora del componente de Google Analytics es Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, Estados Unidos.
 
-## 13. Dauer, für die die personenbezogenen Daten gespeichert werden
+Para el análisis web a través de Google Analytics, el controlador utiliza la aplicación "_gat. _anonymizeIp". Mediante esta aplicación, la dirección IP de la conexión a Internet de la persona interesada es abreviada por Google y anonimizada al acceder a nuestros sitios web desde un Estado miembro de la Unión Europea u otro Estado contratante del Acuerdo sobre el Espacio Económico Europeo.
 
-Das Kriterium für die Dauer der Speicherung von personenbezogenen Daten ist die jeweilige gesetzliche Aufbewahrungsfrist. Nach Ablauf der Frist werden die entsprechenden Daten routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind.
+El propósito del componente de Google Analytics es analizar el tráfico en nuestro sitio web. Google utiliza los datos e información recopilados, entre otros, para evaluar el uso de nuestro sitio web y proporcionar informes en línea, que muestran las actividades en nuestros sitios web, y para proporcionar otros servicios relacionados con el uso de nuestro sitio de Internet para nosotros.
 
----
+Google Analytics coloca una cookie en el sistema informático de la persona interesada. La definición de cookies se explica arriba. Con la configuración de la cookie, Google está habilitado para analizar el uso de nuestro sitio web. Durante el curso de este procedimiento técnico, Google adquiere conocimiento de información personal, como la dirección IP de la persona interesada, que sirve a Google, entre otros, para comprender el origen de los visitantes y clics, y posteriormente crear liquidaciones de comisiones.
 
-## 14. Gesetzliche oder vertragliche Vorschriften zur Bereitstellung der personenbezogenen Daten; Erforderlichkeit für den Vertragsabschluss; Verpflichtung der betroffenen Person, die personenbezogenen Daten bereitzustellen; mögliche Folgen der Nichtbereitstellung
+La cookie se utiliza para almacenar información personal, como el tiempo de acceso, la ubicación desde la que se realizó el acceso y la frecuencia de visitas a nuestro sitio web por parte de la persona interesada. Con cada visita a nuestro sitio de Internet, estos datos personales, incluida la dirección IP de la conexión a Internet utilizada por la persona interesada, se transmitirán a Google en los Estados Unidos de América. Estos datos personales son almacenados por Google en los Estados Unidos de América. Google puede pasar estos datos personales recopilados a través del procedimiento técnico a terceros.
 
-Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zum Teil gesetzlich vorgeschrieben ist (z.B. Steuervorschriften) oder sich auch aus vertraglichen Regelungen (z.B. Angaben zum Vertragspartner) ergeben kann. Mitunter kann es zu einem Vertragsschluss erforderlich sein, dass eine betroffene Person uns personenbezogene Daten zur Verfügung stellt, die in der Folge durch uns verarbeitet werden müssen. Die betroffene Person ist beispielsweise verpflichtet, uns personenbezogene Daten bereitzustellen, wenn unser Unternehmen mit ihr einen Vertrag abschließt. Eine Nichtbereitstellung der personenbezogenen Daten hätte zur Folge, dass der Vertrag mit dem Betroffenen nicht geschlossen werden könnte. Vor einer Bereitstellung personenbezogener Daten durch den Betroffenen muss sich der Betroffene an einen unserer Mitarbeiter wenden. Unser Mitarbeiter klärt den Betroffenen einzelfallbezogen darüber auf, ob die Bereitstellung der personenbezogenen Daten gesetzlich oder vertraglich vorgeschrieben oder für den Vertragsabschluss erforderlich ist, ob eine Verpflichtung besteht, die personenbezogenen Daten bereitzustellen, und welche Folgen die Nichtbereitstellung der personenbezogenen Daten hätte.
+La persona interesada puede, como se mencionó anteriormente, evitar la configuración de cookies a través de nuestro sitio web en cualquier momento mediante un ajuste correspondiente del navegador web utilizado y, por lo tanto, negar permanentemente la configuración de cookies. Dicho ajuste al navegador de Internet utilizado también impediría que Google Analytics establezca una cookie en el sistema informático de la persona interesada. Además, las cookies ya utilizadas por Google Analytics pueden eliminarse en cualquier momento a través de un navegador web u otros programas de software.
 
----
+Además, la persona interesada tiene la posibilidad de oponerse a una recopilación de datos generados por Google Analytics, que se relaciona con el uso de este sitio web, así como el procesamiento de estos datos por Google y la posibilidad de prevenir cualquier cosa. Para ello, la persona interesada debe descargar un complemento de navegador bajo el enlace [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) e instalarlo. Este complemento de navegador le indica a Google Analytics a través de un JavaScript que los datos e información sobre las visitas a sitios de Internet no pueden transmitirse a Google Analytics. La instalación del complemento de navegador es considerada una objeción por parte de Google. Si el sistema informático de la persona interesada es eliminado, formateado o reinstalado posteriormente, la persona interesada debe reinstalar el complemento de navegador para deshabilitar Google Analytics. Si el complemento de navegador fue desinstalado por la persona interesada o cualquier otra persona atribuible a su esfera de competencia, o está deshabilitado, es posible ejecutar la reinstalación o reactivación de los complementos de navegador.
 
-## 15. Bestehen einer automatisierten Entscheidungsfindung
-
-Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
+Más información y las disposiciones de protección de datos aplicables de Google pueden recuperarse bajo [https://www.google.com/intl/es/policies/privacy/](https://www.google.com/intl/es/policies/privacy/) y bajo [http://www.google.com/analytics/terms/es.html](http://www.google.com/analytics/terms/es.html). Google Analytics se explica más a fondo en el siguiente enlace [https://www.google.com/analytics/](https://www.google.com/analytics/).
 
 ---
 
-**Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als [Externer Datenschutzbeauftragter München](https://dg-datenschutz.de/datenschutz-dienstleistungen/externer-datenschutzbeauftragter/) tätig ist, in Kooperation mit dem [Datenschutz Anwalt Christian Solmecke](https://www.wbs-law.de/) erstellt.**
+## 10. Disposiciones de Protección de Datos sobre la Aplicación y Uso de Instagram
+
+En este sitio web, el controlador ha integrado componentes del servicio Instagram. Instagram es un servicio que puede calificarse como una plataforma audiovisual, que permite a los usuarios compartir fotos y videos, así como difundir tales datos en otras redes sociales.
+
+La empresa operadora de los servicios ofrecidos por Instagram es Instagram LLC, 1 Hacker Way, Building 14 First Floor, Menlo Park, CA, USA.
+
+Con cada llamada a una de las páginas individuales de este sitio de Internet, que es operada por el controlador y en la que se ha integrado un componente de Instagram (botón de Instagram), el navegador de Internet en el sistema informático de la persona interesada es automáticamente solicitado para descargar una visualización del componente correspondiente de Instagram. Durante el curso de este procedimiento técnico, Instagram se da cuenta de qué subpágina específica de nuestro sitio web fue visitada por la persona interesada.
+
+Si la persona interesada está conectada al mismo tiempo en Instagram, Instagram detecta con cada llamada a nuestro sitio web por parte de la persona interesada, y durante toda la duración de su estancia en nuestro sitio de Internet, qué subpágina específica de nuestra página de Internet fue visitada por la persona interesada. Esta información se recopila a través del componente de Instagram y está asociada con la cuenta de Instagram correspondiente de la persona interesada. Si la persona interesada hace clic en uno de los botones de Instagram integrados en nuestro sitio web, entonces Instagram asigna esta información a la cuenta personal de usuario de Instagram de la persona interesada y almacena los datos personales.
+
+Instagram recibe información a través del componente de Instagram que la persona interesada ha visitado nuestro sitio web, siempre que la persona interesada esté conectada en Instagram al momento de la llamada a nuestro sitio web. Esto ocurre independientemente de si la persona hace clic en el botón de Instagram o no. Si dicha transmisión de información a Instagram no es deseable para la persona interesada, entonces él o ella puede evitar esto cerrando sesión en su cuenta de Instagram antes de hacer una llamada a nuestro sitio web.
+
+Más información y las disposiciones de protección de datos aplicables de Instagram pueden recuperarse bajo [https://help.instagram.com/155833707900388](https://help.instagram.com/155833707900388) y [https://www.instagram.com/about/legal/privacy/](https://www.instagram.com/about/legal/privacy/).
+
+---
+
+## 11. Base Legal para el Procesamiento
+
+El Artículo 6(1) lit. a RGPD sirve como base legal para las operaciones de procesamiento para las cuales obtenemos el consentimiento para un propósito de procesamiento específico. Si el procesamiento de datos personales es necesario para la ejecución de un contrato del cual la persona interesada es parte, como es el caso, por ejemplo, cuando las operaciones de procesamiento son necesarias para el suministro de bienes o para proporcionar cualquier otro servicio, el procesamiento se basa en el artículo 6(1) lit. b RGPD. Lo mismo se aplica a tales operaciones de procesamiento que son necesarias para llevar a cabo medidas precontractuales, por ejemplo, en el caso de consultas sobre nuestros productos o servicios. ¿Está nuestra empresa sujeta a una obligación legal por la cual se requiere el procesamiento de datos personales, como para el cumplimiento de obligaciones fiscales, el procesamiento se basa en el artículo 6(1) lit. c RGPD. En raras ocasiones, el procesamiento de datos personales puede ser necesario para proteger los intereses vitales de la persona interesada u otra persona física. Este sería el caso, por ejemplo, si un visitante resultara herido en nuestra empresa y su nombre, edad, datos de seguro médico u otra información vital tuvieran que ser pasados a un médico, hospital u otro tercero. Entonces el procesamiento se basaría en el artículo 6(1) lit. d RGPD. Finalmente, las operaciones de procesamiento podrían basarse en el artículo 6(1) lit. f RGPD. Esta base legal se utiliza para operaciones de procesamiento no cubiertas por ninguna de las bases legales mencionadas anteriormente, si el procesamiento es necesario para los fines de los intereses legítimos perseguidos por nuestra empresa o por un tercero, salvo que dichos intereses se vean superados por los intereses o derechos y libertades fundamentales de la persona interesada que requieren protección de datos personales. Dichas operaciones de procesamiento son particularmente permisibles porque han sido mencionadas específicamente por el legislador europeo. Consideró que se podría asumir un interés legítimo si la persona interesada es cliente del controlador (Considerando 47, Oración 2 RGPD).
+
+---
+
+## 12. Los Intereses Legítimos Perseguidos por el Controlador o por un Tercero
+
+Cuando el procesamiento de datos personales se basa en el artículo 6(1) lit. f RGPD, nuestro interés legítimo es llevar a cabo nuestro negocio en favor del bienestar de todos nuestros empleados y accionistas.
+
+---
+
+## 13. Período Durante el Cual se Almacenarán los Datos Personales
+
+El criterio utilizado para determinar el período de almacenamiento de datos personales es el respectivo período de retención legal. Después de la expiración de ese período, los datos correspondientes se eliminan de forma rutinaria, siempre que ya no sea necesario para el cumplimiento del contrato o la iniciación de un contrato.
+
+---
+
+## 14. Provisión de Datos Personales como Requisito Legal o Contractual; Requisito Necesario para Celebrar un Contrato; Obligación de la Persona Interesada de Proporcionar los Datos Personales; Posibles Consecuencias de la No Provisión de Tales Datos
+
+Aclaramos que la provisión de datos personales es en parte requerida por ley (por ejemplo, regulaciones fiscales) o puede resultar de disposiciones contractuales (por ejemplo, información sobre el socio contractual). A veces, puede ser necesario para concluir un contrato que la persona interesada nos proporcione datos personales, que posteriormente deben ser procesados por nosotros. La persona interesada está, por ejemplo, obligada a proporcionarnos datos personales cuando nuestra empresa firma un contrato con él o ella. La no provisión de los datos personales tendría como consecuencia que no se podría celebrar el contrato con la persona interesada. Antes de que los datos personales sean proporcionados por la persona interesada, la persona interesada debe contactar a cualquier empleado. El empleado aclara a la persona interesada si la provisión de los datos personales es requerida por ley o contrato o es necesaria para la celebración del contrato, si existe una obligación de proporcionar los datos personales y las consecuencias de la no provisión de los datos personales.
+
+---
+
+## 15. Existencia de la Toma de Decisiones Automatizada
+
+Como empresa responsable, no utilizamos la toma de decisiones automática ni la elaboración de perfiles.
+
+---
+
+**Esta política de privacidad ha sido generada por el Generador de Políticas de Privacidad de DGD Deutsche Gesellschaft für Datenschutz GmbH, que actúa como [Oficial de Protección de Datos Externo en Múnich](https://dg-datenschutz.de/datenschutz-dienstleistungen/externer-datenschutzbeauftragter/), en cooperación con el [Abogado de Protección de Datos Christian Solmecke](https://www.wbs-law.de/).**
