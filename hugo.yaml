@@ -52,7 +52,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2024"
       params:
         icon: github
     - name: Instagram
