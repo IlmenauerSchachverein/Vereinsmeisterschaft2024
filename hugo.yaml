@@ -16,12 +16,21 @@ markup:
   highlight:
     noClasses: false
 
+defaultContentLanguage: de
+languages:
+  en:
+    languageName: German
+    weight: 1
+  de:
+    languageName: English
+    weight: 2
+
 menu:
   main:
     - name: Tabellen
       pageRef: /table
       weight: 1
-    - name: About
+    - name: Impressum
       pageRef: /about
       weight: 3
     - name: Contact ↗
@@ -36,11 +45,11 @@ menu:
       url: "https://github.com/imfing/hextra-starter-template"
       params:
         icon: github
-    - name: Twitter
+    - name: Instagram
       weight: 7
-      url: "https://twitter.com/"
+      url: "https://instagram.com/ilmenauer_schachverein"
       params:
-        icon: x-twitter
+        icon: instagram
 
 params:
   navbar:
@@ -51,9 +60,9 @@ params:
     default: light
     
   footer:
-    displayCopyright: false
-    displayPoweredBy: false
+    displayCopyright: true
+    displayPoweredBy: true
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2024"
