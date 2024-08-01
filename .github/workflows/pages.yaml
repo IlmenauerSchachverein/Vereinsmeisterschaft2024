@@ -30,7 +30,7 @@ jobs:
         run: |
           # Fetch the latest release tag from Hugo GitHub repository
           latest_version=$(curl --silent "https://api.github.com/repos/gohugoio/hugo/releases/latest" | grep '"tag_name":' | sed -E 's/.*"v([0-9]+\.[0-9]+\.[0-9]+).*/\1/')
-          
+
           # Minimum version check
           minimum_version=0.124.0
 
@@ -63,11 +63,11 @@ jobs:
       - name: Clean Public Directory
         run: rm -rf public
 
-      - name: Hugo Build
-        run: |
-          hugo mod get
-          hugo --version
-          hugo
+      - name: Hugo Dependencies
+        run: hugo mod get
+
+      - name: Build Hugo
+        run: hugo
 
       - name: Clean Server Directory
         env:
