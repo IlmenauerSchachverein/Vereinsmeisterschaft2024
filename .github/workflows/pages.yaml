@@ -1,0 +1,66 @@
+name: Deploy to Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Update package list
+        run: sudo apt-get update
+
+      - name: Install Go
+        run: |
+          sudo apt-get install -y golang
+
+      - name: Install the latest Hugo
+        run: |
+          sudo apt-get install -y hugo
+
+      - name: Install Python
+        run: |
+          sudo apt-get install -y python3 python3-pip
+
+      - name: Install sshpass
+        run: sudo apt-get install -y sshpass
+
+      - name: Cache Hugo Modules
+        uses: actions/cache@v3
+        with:
+          path: .hugo_mod/cache
+          key: ${{ runner.os }}-hugo-mod-${{ hashFiles('**/go.mod') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-mod-
+
+      - name: Clean Public Directory
+        run: rm -rf public
+
+      - name: Hugo Build
+        run: | 
+          hugo mod get
+          hugo --version
+          hugo
+
+      - name: Clean Server Directory
+        env:
+          SSH_USERNAME: ${{ secrets.SSH_USERNAME }}
+          SSH_PASSWORD: ${{ secrets.SSH_PASSWORD }}
+          SSH_SERVER: ${{ secrets.SSH_SERVER }}
+        run: |
+          sshpass -p $SSH_PASSWORD ssh -o StrictHostKeyChecking=no $SSH_USERNAME@$SSH_SERVER "mkdir -p /var/www/ilmenauerschachverein/vm24"
+          sshpass -p $SSH_PASSWORD ssh -o StrictHostKeyChecking=no $SSH_USERNAME@$SSH_SERVER "rm -rf /var/www/ilmenauerschachverein/vm24/*"
+
+      - name: Upload to External Server via SCP
+        env:
+          SSH_USERNAME: ${{ secrets.SSH_USERNAME }}
+          SSH_PASSWORD: ${{ secrets.SSH_PASSWORD }}
+          SSH_SERVER: ${{ secrets.SSH_SERVER }}
+        run: |
+          sshpass -p $SSH_PASSWORD scp -o StrictHostKeyChecking=no -r public/* $SSH_USERNAME@$SSH_SERVER:/var/www/ilmenauerschachverein/vm24
