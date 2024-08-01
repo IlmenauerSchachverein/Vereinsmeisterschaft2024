@@ -13,16 +13,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Update package list
-        run: sudo apt-get update
-
       - name: Install Go
         run: |
+          sudo apt-get update
           sudo apt-get install -y golang
-
-      - name: Install the latest Hugo
-        run: |
-          sudo apt-get install -y hugo
 
       - name: Install Python
         run: |
@@ -30,6 +24,33 @@ jobs:
 
       - name: Install sshpass
         run: sudo apt-get install -y sshpass
+
+      - name: Get Latest Hugo Version
+        id: hugo_version
+        run: |
+          # Fetch the latest release tag from Hugo GitHub repository
+          latest_version=$(curl --silent "https://api.github.com/repos/gohugoio/hugo/releases/latest" | grep '"tag_name":' | sed -E 's/.*"v([0-9]+\.[0-9]+\.[0-9]+).*/\1/')
+          
+          # Minimum version check
+          minimum_version=0.124.0
+
+          # Compare versions and ensure minimum version requirement
+          if [ "$(printf '%s\n' "$minimum_version" "$latest_version" | sort -V | head -n1)" = "$minimum_version" ]; then
+            echo "Using latest version: $latest_version"
+          else
+            echo "Using minimum version: $minimum_version"
+            latest_version=$minimum_version
+          fi
+
+          echo "Hugo version to install: $latest_version"
+          echo "latest_version=$latest_version" >> $GITHUB_ENV
+
+      - name: Install Latest Hugo
+        run: |
+          # Download and install the determined Hugo version
+          wget https://github.com/gohugoio/hugo/releases/download/v${{ env.latest_version }}/hugo_${{ env.latest_version }}_Linux-64bit.tar.gz
+          tar -xzf hugo_${{ env.latest_version }}_Linux-64bit.tar.gz
+          sudo mv hugo /usr/local/bin/
 
       - name: Cache Hugo Modules
         uses: actions/cache@v3
@@ -43,8 +64,9 @@ jobs:
         run: rm -rf public
 
       - name: Hugo Build
-        run: | 
+        run: |
           hugo mod get
+          hugo --version
           hugo
 
       - name: Clean Server Directory
