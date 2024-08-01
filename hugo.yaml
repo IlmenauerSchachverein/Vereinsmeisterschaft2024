@@ -36,8 +36,11 @@ menu:
     - name: Tabellen
       pageRef: /table
       weight: 1
-    - name: Impressum
+    - name: About
       pageRef: /about
+      weight: 3
+    - name: Impressum
+      pageRef: /imprint
       weight: 3
     - name: Ilmenauer Schachverein ↗
       url: "https://ilmenauer-schachverein.de"

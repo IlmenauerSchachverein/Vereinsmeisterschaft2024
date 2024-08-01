@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Tabellen
 next: first-page
 ---
 
