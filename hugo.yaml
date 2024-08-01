@@ -4,7 +4,7 @@ title: Vereinsmeisterschaft 2024
 # import hextra as module
 module:
   imports:
-  - path: github.com/imfing/hextra
+    - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
@@ -18,12 +18,18 @@ markup:
 
 defaultContentLanguage: de
 languages:
-  en:
+  de:
     languageName: German
     weight: 1
-  de:
+  deen:
     languageName: English
     weight: 2
+  es:
+    languageName: Spanish
+    weight: 3
+  ru:
+    languageName: Russian
+    weight: 4
 
 menu:
   main:
@@ -56,9 +62,9 @@ params:
     displayTitle: true
     displayLogo: true
 
-  theme: 
+  theme:
     default: light
-    
+
   footer:
     displayCopyright: true
     displayPoweredBy: true
