@@ -2,7 +2,6 @@
 title: Impressum    
 type: Impressum
 ---
-# Russisch
 # Impressum
 
 **Verantwortlicher Seitenbetreiber:**
