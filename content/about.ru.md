@@ -1,31 +1,31 @@
 ---
-title: Impressum    
-type: Impressum
+title: Импрессум
+type: Импрессум
 ---
-# Impressum
+# Импрессум
 
-**Verantwortlicher Seitenbetreiber:**
+**Ответственный оператор сайта:**
 
-Ilmenauer Schachverein e.V.  
-Vorsitzender: Markus Hartung  
+Шахматный клуб Ильменау e.V.  
+Председатель: Маркус Хартунг  
 
-Goetheallee 1a  
+Гётеаллее 1a  
 
-98693 Ilmenau  
+98693 Ильменау  
 
-Eingetragen beim Amtsgericht Gotha Vereinsregisternummer: 191  
+Зарегистрирован в районном суде Готы, номер регистрации: 191  
 
-Internet-Adresse: [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de)  
-E-Mail: info(at)ilmenauer-schachverein.de  
-
----
-
-## Haftungsausschluss:
-
-Die Beiträge und Inhalte auf [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de) werden sorgfältig recherchiert. Es wird keine Haftung für die Richtigkeit der zur Verfügung gestellten Informationen und Inhalte übernommen.
+Интернет-адрес: [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de)  
+Электронная почта: info(at)ilmenauer-schachverein.de  
 
 ---
 
-## Hinweise zu allen Verweisen und externen Links:
+## Отказ от ответственности:
 
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Статьи и материалы на сайте [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de) тщательно проверяются. Мы не несем ответственности за точность предоставленной информации и содержания.
+
+---
+
+## Указания по всем ссылкам и внешним ресурсам:
+
+Несмотря на тщательный контроль содержания, мы не несем ответственности за содержание внешних ссылок. За содержание страниц, на которые ведут ссылки, несут ответственность исключительно их операторы.

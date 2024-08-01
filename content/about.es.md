@@ -1,32 +1,31 @@
 ---
-title: Impressum    
-type: Impressum
+title: Aviso Legal
+type: Aviso Legal
 ---
-# Spanisch
-# Impressum
+# Aviso Legal
 
-**Verantwortlicher Seitenbetreiber:**
+**Responsable del sitio web:**
 
 Ilmenauer Schachverein e.V.  
-Vorsitzender: Markus Hartung  
+Presidente: Markus Hartung  
 
 Goetheallee 1a  
 
 98693 Ilmenau  
 
-Eingetragen beim Amtsgericht Gotha Vereinsregisternummer: 191  
+Registrado en el Tribunal de Distrito de Gotha, número de registro: 191  
 
-Internet-Adresse: [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de)  
-E-Mail: info(at)ilmenauer-schachverein.de  
-
----
-
-## Haftungsausschluss:
-
-Die Beiträge und Inhalte auf [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de) werden sorgfältig recherchiert. Es wird keine Haftung für die Richtigkeit der zur Verfügung gestellten Informationen und Inhalte übernommen.
+Dirección de Internet: [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de)  
+Correo electrónico: info(at)ilmenauer-schachverein.de  
 
 ---
 
-## Hinweise zu allen Verweisen und externen Links:
+## Descargo de responsabilidad:
 
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Los artículos y contenidos en [https://ilmenauer-schachverein.de](https://ilmenauer-schachverein.de) son investigados cuidadosamente. No se asume ninguna responsabilidad por la exactitud de la información y el contenido proporcionado.
+
+---
+
+## Notas sobre todos los enlaces y referencias externas:
+
+A pesar de un cuidadoso control del contenido, no asumimos responsabilidad alguna por los contenidos de los enlaces externos. Los operadores de las páginas enlazadas son los únicos responsables de su contenido.
