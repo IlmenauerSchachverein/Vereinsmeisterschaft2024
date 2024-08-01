@@ -39,8 +39,8 @@ menu:
     - name: Impressum
       pageRef: /about
       weight: 3
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Ilmenauer Schachverein ↗
+      url: "https://ilmenauer-schachverein.de"
       weight: 4
     - name: Search
       weight: 5
