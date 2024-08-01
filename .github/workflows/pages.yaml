@@ -45,7 +45,6 @@ jobs:
       - name: Hugo Build
         run: | 
           hugo mod get
-          hugo --version
           hugo
 
       - name: Clean Server Directory
