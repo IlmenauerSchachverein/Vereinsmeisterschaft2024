@@ -34,3 +34,12 @@ toc: false
   {{< card link="ranking/7" title="Rangliste nach Runde 7" icon="user" >}}
   {{< card link="ranking/8" title="Rangliste nach Runde 8" icon="user" >}}
 {{< /cards >}}
+
+
+# Sondertabellen
+{{< cards >}}
+  {{< card link="special/dwz" title="DWZ Auswertung" icon="user" >}}
+  {{< card link="special/elo" title="ELO Auswertung" icon="user" >}}
+  {{< card link="special/progress" title="Fortschrittstabelle" icon="user" >}}
+  {{< card link="special/player" title="Spieler Übersicht" icon="user" >}}
+{{< /cards >}}

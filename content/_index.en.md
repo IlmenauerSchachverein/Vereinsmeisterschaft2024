@@ -35,3 +35,12 @@ toc: false
   {{< card link="table/ranking/7" title="Ranking after round 7" icon="user" >}}
   {{< card link="table/ranking/8" title="Ranking after round 8" icon="user" >}}
 {{< /cards >}}
+
+
+## Special Table
+{{< cards >}}
+  {{< card link="table/special/dwz" title="DWZ evaluation" icon="user" >}}
+  {{< card link="table/special/elo" title="ELO evaluation" icon="user" >}}
+  {{< card link="table/special/progress" title="Progress table" icon="user" >}}
+  {{< card link="table/special/player" title="Player" icon="user" >}}
+{{< /cards >}}
