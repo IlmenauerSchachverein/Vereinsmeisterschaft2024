@@ -1,5 +1,5 @@
 ---
-title: Ausschreibung
+title: Startrangliste   
 type: docs
 prev: /
 next: docs/folder/
