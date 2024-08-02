@@ -28,9 +28,6 @@ languages:
   es:
     languageName: Spanish
     weight: 3
-  ru:
-    languageName: Russian
-    weight: 4
   
 menu:
   main:
