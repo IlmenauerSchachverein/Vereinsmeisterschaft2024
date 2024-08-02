@@ -5,7 +5,7 @@ prev: tabellen/docs/
 toc: false
 ---
 
-# Paarungsliste der 1. Runde
+## Paarungsliste der 1. Runde
 
 | Tisch | TNr | Teilnehmer            | Punkte | TNr | Teilnehmer        | Punkte | Ergebnis |
 |-------|-----|-----------------------|--------|-----|-------------------|--------|----------|
