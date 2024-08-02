@@ -6,8 +6,8 @@ toc: false
 
 ## Wichtige Informationen 
 {{< cards >}}
-  {{< card link="1" title="Ausschreibung" icon="user" >}}
-  {{< card link="2" title="Start Rangliste" icon="user" >}}
+  {{< card link="invitation.en" title="Ausschreibung" icon="user" >}}
+  {{< card link="start.en" title="Start Rangliste" icon="user" >}}
 {{< /cards >}}
 ## Paarungen aller Runden 
 
