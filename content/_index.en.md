@@ -7,7 +7,7 @@ toc: false
 ##  Important information 
 {{< cards >}}
   {{< card link="table/invitation" title="Invitation" icon="user" >}}
-  {{< card link="start.en" title="Start ranking list" icon="user" >}}
+  {{< card link="table/start" title="Start ranking list" icon="user" >}}
 {{< /cards >}}
 
 ## Pairings of all rounds 
