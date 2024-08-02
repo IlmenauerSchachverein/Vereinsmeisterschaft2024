@@ -1,22 +1,18 @@
 ---
-title: Paarungen Runde 1
+title: Paarungen
 type: docs
 prev: tabellen/docs/
 toc: false
 ---
 
-## Paarungen der 1. Runde
-
-| Tisch | TNr | Teilnehmer            | Punkte | TNr | Teilnehmer        | Punkte | Ergebnis |
-|-------|-----|-----------------------|--------|-----|-------------------|--------|----------|
-| 1     | 1   | Ziganshin, Ainur      | ()     | 5   | Zeising, Benjamin | ()     | 1 - 0    |
-| 2     | 6   | Michael, Torsten      | ()     | 2   | Eichenauer, Pascal| ()     | 0 - 1    |
-| 3     | 3   | Geißhirt, Marco       | ()     | 7   | Lehmann, Georg    | ()     | 1 - 0    |
-| 4     | 8   | Richter, Frank        | ()     | 4   | Schenk, Stefan    | ()     | ½ - ½    |
-| 5     | 9   | Dudeja, Iresh         | ()     | 13  | Böhmer, Leon      | ()     | 0 - 1    |
-| 6     | 14  | Eisenbach, Markus, Dr.| ()     | 10  | Hartung, Markus   | ()     | ½ - ½    |
-| 7     | 11  | Heitmann, Erik        | ()     | 15  | Görlach, Hanna    | ()     | 1 - 0    |
-| 8     | 16  | Brand, Thomas         | ()     | 12  | Skopp, Erik       | ()     | 0 - 1    |
-| 9     | 17  | Lehmann, Norik        | ()     | 20  | Greul, Simon      | ()     | + - -    |
-| 10    | 21  | Jung, Timo            | ()     | 18  | Winger, Frank     | ()     | 1 - 0    |
-| 11    | 19  | Abuawad, Fares        | ()     | 22  | Wäldchen, Anna    | ()     | + - -    |
+## Paarungen aller Runden 
+{{< cards >}}
+  {{< card link="1" title="Paarungen Runde 1" icon="user" >}}
+  {{< card link="2" title="Paarungen Runde 2" icon="user" >}}
+  {{< card link="3" title="Paarungen Runde 3" icon="user" >}}
+  {{< card link="4" title="Paarungen Runde 4" icon="user" >}}
+  {{< card link="5" title="Paarungen Runde 5" icon="user" >}}
+  {{< card link="6" title="Paarungen Runde 6" icon="user" >}}
+  {{< card link="7" title="Paarungen Runde 7" icon="user" >}}
+  {{< card link="8" title="Paarungen Runde 8" icon="user" >}}
+{{< /cards >}}
