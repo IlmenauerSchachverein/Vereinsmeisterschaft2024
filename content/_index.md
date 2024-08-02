@@ -19,7 +19,3 @@ toc: false
   {{< card link="7" title="Paarungen Runde 7" icon="user" >}}
   {{< card link="8" title="Paarungen Runde 8" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
