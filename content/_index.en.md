@@ -10,28 +10,28 @@ toc: false
   {{< card link="table/start" title="Start ranking list" icon="user" >}}
 {{< /cards >}}
 
-## Pairings of all rounds 
+## pairing of all rounds 
 
 {{< cards >}}
-  {{< card link="1" title="Pairings round 1" icon="user" >}}
-  {{< card link="2" title="Pairings round 2" icon="user" >}}
-  {{< card link="3" title="Pairings round 3" icon="user" >}}
-  {{< card link="4" title="Pairings round 4" icon="user" >}}
-  {{< card link="5" title="Pairings round 5" icon="user" >}}
-  {{< card link="6" title="Pairings round 6" icon="user" >}}
-  {{< card link="7" title="Pairings round 7" icon="user" >}}
-  {{< card link="8" title="Pairings round 8" icon="user" >}}
+  {{< card link="table/pairing/1" title="pairing round 1" icon="user" >}}
+  {{< card link="table/pairing/2" title="pairing round 2" icon="user" >}}
+  {{< card link="table/pairing/3" title="pairing round 3" icon="user" >}}
+  {{< card link="table/pairing/4" title="pairing round 4" icon="user" >}}
+  {{< card link="table/pairing/5" title="pairing round 5" icon="user" >}}
+  {{< card link="table/pairing/6" title="pairing round 6" icon="user" >}}
+  {{< card link="table/pairing/7" title="pairing round 7" icon="user" >}}
+  {{< card link="table/pairing/8" title="pairing round 8" icon="user" >}}
 {{< /cards >}}
 
 ## Ranking list of all rounds 
 
 {{< cards >}}
-  {{< card link="1" title="Ranking after round 1" icon="user" >}}
-  {{< card link="2" title="Ranking after round 2" icon="user" >}}
-  {{< card link="3" title="Ranking after round 3" icon="user" >}}
-  {{< card link="4" title="Ranking after round 4" icon="user" >}}
-  {{< card link="5" title="Ranking after round 5" icon="user" >}}
-  {{< card link="6" title="Ranking after round 6" icon="user" >}}
-  {{< card link="7" title="Ranking after round 7" icon="user" >}}
-  {{< card link="8" title="Ranking after round 8" icon="user" >}}
+  {{< card link="table/ranking/1" title="Ranking after round 1" icon="user" >}}
+  {{< card link="table/ranking/2" title="Ranking after round 2" icon="user" >}}
+  {{< card link="table/ranking/3" title="Ranking after round 3" icon="user" >}}
+  {{< card link="table/ranking/4" title="Ranking after round 4" icon="user" >}}
+  {{< card link="table/ranking/5" title="Ranking after round 5" icon="user" >}}
+  {{< card link="table/ranking/6" title="Ranking after round 6" icon="user" >}}
+  {{< card link="table/ranking/7" title="Ranking after round 7" icon="user" >}}
+  {{< card link="table/ranking/8" title="Ranking after round 8" icon="user" >}}
 {{< /cards >}}
