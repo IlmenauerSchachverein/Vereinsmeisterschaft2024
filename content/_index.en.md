@@ -1,25 +1,37 @@
 ---
-title: Club championship
+title: Club Championship 2024
 toc: false
 ---
 
 
-
-# Links
-
-## Pairings of all rounds
-
+##  Important information 
 {{< cards >}}
-  {{< card link="1" title="Pairings of round 1" icon="user" >}}
-  {{< card link="2" title="Pairings of round 2" icon="user" >}}
-  {{< card link="3" title="Pairings of round 3" icon="user" >}}
-  {{< card link="4" title="Pairings of round 4" icon="user" >}}
-  {{< card link="5" title="Pairings of round 5" icon="user" >}}
-  {{< card link="6" title="Pairings of round 6" icon="user" >}}
-  {{< card link="7" title="Pairings of round 7" icon="user" >}}
-  {{< card link="8" title="Pairings of round 8" icon="user" >}}
+  {{< card link="1" title="Invitation" icon="user" >}}
+  {{< card link="2" title="Start ranking list" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## Pairings of all rounds 
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+{{< cards >}}
+  {{< card link="1" title="Pairings round 1" icon="user" >}}
+  {{< card link="2" title="Pairings round 2" icon="user" >}}
+  {{< card link="3" title="Pairings round 3" icon="user" >}}
+  {{< card link="4" title="Pairings round 4" icon="user" >}}
+  {{< card link="5" title="Pairings round 5" icon="user" >}}
+  {{< card link="6" title="Pairings round 6" icon="user" >}}
+  {{< card link="7" title="Pairings round 7" icon="user" >}}
+  {{< card link="8" title="Pairings round 8" icon="user" >}}
+{{< /cards >}}
+
+## Ranking list of all rounds 
+
+{{< cards >}}
+  {{< card link="1" title="Ranking after round 1" icon="user" >}}
+  {{< card link="2" title="Ranking after round 2" icon="user" >}}
+  {{< card link="3" title="Ranking after round 3" icon="user" >}}
+  {{< card link="4" title="Ranking after round 4" icon="user" >}}
+  {{< card link="5" title="Ranking after round 5" icon="user" >}}
+  {{< card link="6" title="Ranking after round 6" icon="user" >}}
+  {{< card link="7" title="Ranking after round 7" icon="user" >}}
+  {{< card link="8" title="Ranking after round 8" icon="user" >}}
+{{< /cards >}}

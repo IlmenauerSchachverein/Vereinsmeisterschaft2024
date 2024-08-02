@@ -64,8 +64,8 @@ params:
     default: light
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: true
+    displayCopyright: true
+    displayPoweredBy: false
 
   editURL:
     enable: false
