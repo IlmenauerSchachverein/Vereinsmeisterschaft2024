@@ -1,6 +1,7 @@
 ---
 title: Vereinsmeisterschaft 2024
 toc: false
+type: docs
 ---
 
 
