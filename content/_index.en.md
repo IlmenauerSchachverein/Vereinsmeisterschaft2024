@@ -9,6 +9,7 @@ type: docs
 {{< cards >}}
   {{< card link="table/invitation" title="Invitation" icon="user" >}}
   {{< card link="table/start" title="Start ranking list" icon="user" >}}
+  {{< card link="games" title="Games" icon="user" >}}
 {{< /cards >}}
 
 ## pairing of all rounds 
