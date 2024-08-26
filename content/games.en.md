@@ -16,7 +16,7 @@ The PGN files can be downloaded at the bottom of the page.
 
 ## Live Study
 
-{{< callout type="error" >}}
+{{< callout type="warning" >}}
 JavaScript is used to provide the ChessBase frames.
 {{< /callout >}}
 {{< callout type="info" >}}
