@@ -5,3 +5,7 @@ resources/
 
 # Editor
 .vscode/
+
+
+# Chess 
+*.ini
