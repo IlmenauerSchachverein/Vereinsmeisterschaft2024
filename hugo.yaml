@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: Vereinsmeisterschaft 2024
+baseURL: "https://ilmenauerschachverein.github.io/Vereinsmeisterschaft2025/"
 theme: "hextra"
 
 # import hextra as module
