@@ -39,5 +39,5 @@ jobs:
     - name: Push to GitLab
       run: |
         branch_name=$(echo "${GITHUB_REF#refs/heads/}")
-        git push gitlab "refs/heads/$branch_name:refs/heads/$branch_name"  # Pusht den aktuellen Branch zu GitLab und erstellt den Branch falls nötig
+        git push gitlab "refs/heads/$branch_name:refs/heads/$branch_name"  
         git push --tags gitlab  # Pusht alle Tags zu GitLab
