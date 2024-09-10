@@ -72,4 +72,8 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2024"
+    base: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2024/edit/main/content"
+
+  services:
+    googleAnalytics:
+      ID: G-92ETFMJ5LV 
