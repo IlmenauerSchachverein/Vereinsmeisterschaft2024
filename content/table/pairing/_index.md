@@ -2,7 +2,7 @@
 title: Paarungen
 type: docs
 prev: tabellen/docs/
-toc: false
+toc: true
 ---
 
 ## Paarungen aller Runden 
