@@ -52,7 +52,6 @@ jobs:
 
       - name: Build Hugo site
         run: |
-          sed -i '3ibaseURL: "https://IlmenauerSchachverein.github.io/Vereinsmeisterschaft2024/"' hugo.yaml
           hugo
 
       - name: Setup Pages
