@@ -6,6 +6,9 @@ on:
   push:
     branches: ["main"]
 
+  schedule:
+    - cron: "0 0 1 * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -50,6 +53,7 @@ jobs:
 
       - name: Build Hugo site
         run: |
+          sed -i '2ibaseURL: "https://IlmenauerSchachverein.github.io/Vereinsmeisterschaft2024/"' hugo.yaml
           hugo
 
       - name: Setup Pages
