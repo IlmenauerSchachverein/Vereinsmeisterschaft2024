@@ -1,5 +1,5 @@
 ---
-title: Datenschutzerklärung
+title: Datenschutzerklärung 
 type: docs
 prev: /
 next: docs/folder/
