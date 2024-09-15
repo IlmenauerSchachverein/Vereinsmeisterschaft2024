@@ -1,5 +1,6 @@
 title: Vereinsmeisterschaft 2024
 baseURL: "https://vm24.ilmenauer-schachverein.de"
+defaultContentLanguage: de
 
 # theme: "hextra"
 
@@ -18,16 +19,15 @@ markup:
   highlight:
     noClasses: false
 
-defaultContentLanguage: de
+
+
 languages:
   de:
     languageName: German
     weight: 1
     title: Vereinsmeisterschaft 2024
-  en:
-    languageName: English
-    weight: 2
-    title: Club Championship 2024
+    contentDir: 'content/de'
+    
 
 menu:
   main:
