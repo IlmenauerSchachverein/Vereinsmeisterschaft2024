@@ -1,5 +1,5 @@
 ---
-title: Paarungen
+title: Runde
 type: docs
 prev: tabellen/docs/
 toc: true
