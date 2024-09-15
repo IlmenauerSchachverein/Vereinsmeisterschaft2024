@@ -1,3 +1,10 @@
+---
+title: Datenschutzerklärung
+type: docs
+prev: /
+next: docs/folder/
+---
+
 # Datenschutzerklärung
 
 ## Verantwortlicher Seitenbetreiber
