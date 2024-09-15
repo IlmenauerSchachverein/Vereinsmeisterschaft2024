@@ -31,8 +31,11 @@ languages:
 
 menu:
   main:
-    - name: Tabellen
-      pageRef: /table
+    - name: Runden
+      pageRef: /Runde
+      weight: 1
+    - name: Rangliste
+      pageRef: /Rangliste
       weight: 1
     - name: About
       pageRef: /about
