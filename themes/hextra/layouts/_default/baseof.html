@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-M64QVRM6P4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-M64QVRM6P4');
-</script>
   {{- partial "head.html" . -}}
   <body dir="{{ .Site.Language.LanguageDirection | default `ltr` }}">
     {{- partial "navbar.html" . -}}
@@ -18,4 +10,10 @@
     {{ end }}
     {{ partial "scripts.html" . }}
   </body>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-M64QVRM6P4');
+  </script>
 </html>
