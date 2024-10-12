@@ -48,6 +48,7 @@ Es sind für jede Runde alle Partien eingegeben. Mit dem Pfeil nach Rechts im Fr
 
 {{< iframe src="https://share.chessbase.com/SharedGames/share/?p=oYReQfzPSF5FKZE756s6hplGJUwa7lDqaIKjQYCwwmKmg4OApDVKdf6KHSCU81Bh" width="100%" height="600px">}}
 
+<!--
 ### Runde 7
 
 {{< iframe src="https://share.chessbase.com/SharedGames/share/?p=oYReQfzPSF5FKZE756s6hplGJUwa7lDqaIKjQYCwwmKmg4OApDVKdf6KHSCU81Bh" width="100%" height="600px">}}
@@ -55,6 +56,9 @@ Es sind für jede Runde alle Partien eingegeben. Mit dem Pfeil nach Rechts im Fr
 ### Runde 8
 
 {{< iframe src="https://share.chessbase.com/SharedGames/share/?p=oYReQfzPSF5FKZE756s6hplGJUwa7lDqaIKjQYCwwmKmg4OApDVKdf6KHSCU81Bh" width="100%" height="600px">}}
+
+ -->
+
 
 ## Download
 
