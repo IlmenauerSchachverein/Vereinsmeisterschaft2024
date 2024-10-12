@@ -2,12 +2,11 @@ title: Vereinsmeisterschaft 2024
 baseURL: "https://vm24.ilmenauer-schachverein.de"
 defaultContentLanguage: de
 
-theme: "hextra"
 
 # import hextra as module
-# module:
-# imports:
-#  - path: github.com/imfing/hextra
+module:
+ imports:
+  - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
