@@ -79,5 +79,4 @@ params:
     base: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2024/edit/main/content"
 
   page:
-    # full (100%), wide (90rem), normal (1280px)
     width: full
