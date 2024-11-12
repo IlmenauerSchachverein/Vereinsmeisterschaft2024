@@ -37,9 +37,6 @@ menu:
     - name: Rangliste
       pageRef: /rangliste
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 3
     - name: Impressum
       pageRef: /imprint
       weight: 3
