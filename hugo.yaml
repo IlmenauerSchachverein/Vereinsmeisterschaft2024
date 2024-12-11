@@ -29,6 +29,9 @@ languages:
     contentDir: 'content/de'
     
 
+services:
+  googleAnalytics:
+    ID: G-EZVHTBV332
 menu:
   main:
     - name: Runden
