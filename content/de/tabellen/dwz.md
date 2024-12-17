@@ -7,8 +7,6 @@ sidebar:
   exclude: true
 ---
 
-## Inoffizielle Turnierauswertung nach DWZ
-
 | Nr. | Teilnehmer         | Tit. | Att. | Ro   | Niv. | W   | We   | n | E  | /  | J  | Rh   | X   | Rn   | Diff. |
 |-----|--------------------|------|------|------|------|-----|------|---|----|----|----|------|-----|------|-------|
 | 1   | Ziganshin, Ainur   |      |      | 2198 | 1862 | 5.0 | 5.05 | 6 | 30 | 15 |    | 2135 |     | 2197 | -1    |
